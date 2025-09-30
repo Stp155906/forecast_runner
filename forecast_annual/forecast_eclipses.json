@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2025-09-30T21:08:01Z",
+  "generated_utc": "2025-09-30T23:39:04Z",
   "window": {
     "start": "2025-09-30",
-    "end": "2026-09-30"
+    "days": 366
   },
   "eclipses": [
     {
@@ -27,7 +27,7 @@
         }
       ],
       "rule_id": "rule.lunation.new.aquarius",
-      "estimated": true
+      "estimated": false
     },
     {
       "date": "2026-03-03",
@@ -51,7 +51,55 @@
         }
       ],
       "rule_id": "rule.lunation.full.virgo",
-      "estimated": true
+      "estimated": false
+    },
+    {
+      "date": "2026-08-12",
+      "phase": "new",
+      "kind": "solar_eclipse",
+      "sign": "Leo",
+      "title": "Leo New Moon → Aug 12, 2026",
+      "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
+      "echoes": [
+        {
+          "id": "echo.hollywood.golden_age.1930s",
+          "year": "1930s–1950s",
+          "event": "Hollywood Golden Age",
+          "blurb": "Studio era; star power, spectacle, and mass culture."
+        },
+        {
+          "id": "echo.culture.woodstock.1969",
+          "year": "1969",
+          "event": "Woodstock Festival",
+          "blurb": "Counterculture apex; music as social force."
+        }
+      ],
+      "rule_id": "rule.lunation.new.leo",
+      "estimated": false
+    },
+    {
+      "date": "2026-08-28",
+      "phase": "full",
+      "kind": "lunar_eclipse",
+      "sign": "Pisces",
+      "title": "Pisces Full Moon → Aug 28, 2026",
+      "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
+      "echoes": [
+        {
+          "id": "echo.covid.pandemic.2020",
+          "year": "2020",
+          "event": "COVID-19 global pandemic",
+          "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
+        },
+        {
+          "id": "echo.hospital.nursing.modern.19c",
+          "year": "19th century",
+          "event": "Modern nursing & hospitals",
+          "blurb": "Florence Nightingale and professionalized care models."
+        }
+      ],
+      "rule_id": "rule.lunation.full.pisces",
+      "estimated": false
     }
   ]
 }

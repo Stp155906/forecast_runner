@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-09-30T21:07:59Z",
+  "generated_utc": "2025-09-30T23:39:03Z",
   "window": {
     "start": "2025-09-30",
     "days": 7
@@ -8,27 +8,27 @@
     "next_new_moon": {
       "phase": "new",
       "kind": "new",
-      "date": "2025-11-20",
-      "days_out": 51,
-      "sign": "Scorpio",
-      "title": "Scorpio New Moon → Nov 20, 2025",
-      "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+      "date": "2025-10-21",
+      "days_out": 21,
+      "sign": "Libra",
+      "title": "Libra New Moon → Oct 21, 2025",
+      "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
       "echoes": [
         {
-          "id": "echo.finance.gfc.2008",
-          "year": "2008",
-          "event": "Global Financial Crisis",
-          "blurb": "Severe worldwide downturn."
+          "id": "echo.un.founding.1945",
+          "year": "1945",
+          "event": "Founding of the United Nations",
+          "blurb": "Global diplomacy body founded."
         },
         {
-          "id": "echo.za.mandela_president.1994",
-          "year": "1994",
-          "event": "Nelson Mandela Elected President",
-          "blurb": "End of apartheid."
+          "id": "echo.un.udhr.1948",
+          "year": "1948",
+          "event": "Universal Declaration of Human Rights",
+          "blurb": "Foundational human rights charter."
         }
       ],
-      "rule_id": "rule.lunation.new.scorpio",
-      "estimated": true
+      "rule_id": "rule.lunation.new.libra",
+      "estimated": false
     },
     "next_full_moon": {
       "phase": "full",
@@ -53,7 +53,7 @@
         }
       ],
       "rule_id": "rule.lunation.full.aries",
-      "estimated": true
+      "estimated": false
     },
     "next_lunation": {
       "phase": "full",
@@ -78,7 +78,7 @@
         }
       ],
       "rule_id": "rule.lunation.full.aries",
-      "estimated": true
+      "estimated": false
     }
   },
   "days": [
@@ -98,31 +98,32 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 51 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 20, 2025 • estimated",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "rule_id": "rule.lunation.new.libra",
+        "title": "Next New Moon in 21 days — Libra New Moon",
+        "subtitle": "Exact on Oct 21, 2025",
+        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
         "echoes": [
           {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
           },
           {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-21"
       },
       "countdown_full_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 7 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -138,13 +139,14 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       },
       "countdown_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 7 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -160,7 +162,8 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       }
     },
     {
@@ -179,31 +182,32 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 50 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 20, 2025 • estimated",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "rule_id": "rule.lunation.new.libra",
+        "title": "Next New Moon in 20 days — Libra New Moon",
+        "subtitle": "Exact on Oct 21, 2025",
+        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
         "echoes": [
           {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
           },
           {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-21"
       },
       "countdown_full_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 6 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -219,13 +223,14 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       },
       "countdown_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 6 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -241,7 +246,8 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       }
     },
     {
@@ -260,31 +266,32 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 49 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 20, 2025 • estimated",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "rule_id": "rule.lunation.new.libra",
+        "title": "Next New Moon in 19 days — Libra New Moon",
+        "subtitle": "Exact on Oct 21, 2025",
+        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
         "echoes": [
           {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
           },
           {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-21"
       },
       "countdown_full_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 5 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -300,13 +307,14 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       },
       "countdown_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 5 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -322,7 +330,8 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       }
     },
     {
@@ -341,31 +350,32 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 48 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 20, 2025 • estimated",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "rule_id": "rule.lunation.new.libra",
+        "title": "Next New Moon in 18 days — Libra New Moon",
+        "subtitle": "Exact on Oct 21, 2025",
+        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
         "echoes": [
           {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
           },
           {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-21"
       },
       "countdown_full_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 4 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -381,13 +391,14 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       },
       "countdown_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 4 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -403,7 +414,8 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       }
     },
     {
@@ -422,31 +434,32 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 47 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 20, 2025 • estimated",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "rule_id": "rule.lunation.new.libra",
+        "title": "Next New Moon in 17 days — Libra New Moon",
+        "subtitle": "Exact on Oct 21, 2025",
+        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
         "echoes": [
           {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
           },
           {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-21"
       },
       "countdown_full_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 3 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -462,13 +475,14 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       },
       "countdown_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 3 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -484,7 +498,8 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       }
     },
     {
@@ -503,31 +518,32 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 46 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 20, 2025 • estimated",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "rule_id": "rule.lunation.new.libra",
+        "title": "Next New Moon in 16 days — Libra New Moon",
+        "subtitle": "Exact on Oct 21, 2025",
+        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
         "echoes": [
           {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
           },
           {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-21"
       },
       "countdown_full_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 2 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -543,13 +559,14 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       },
       "countdown_card": {
         "state": "countdown",
         "rule_id": "rule.lunation.full.aries",
         "title": "Next Full Moon in 2 days — Aries Full Moon",
-        "subtitle": "Exact on Oct 7, 2025 • estimated",
+        "subtitle": "Exact on Oct 7, 2025",
         "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
@@ -565,7 +582,8 @@
             "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       }
     },
     {
@@ -584,69 +602,72 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 45 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 20, 2025 • estimated",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "rule_id": "rule.lunation.new.libra",
+        "title": "Next New Moon in 15 days — Libra New Moon",
+        "subtitle": "Exact on Oct 21, 2025",
+        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
         "echoes": [
           {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
           },
           {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-21"
       },
       "countdown_full_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.gemini",
-        "title": "Next Full Moon in 60 days — Gemini Full Moon",
-        "subtitle": "Exact on Dec 5, 2025 • estimated",
-        "future_theme": "Information culminates: announcements, releases, and media cycles peak.",
+        "rule_id": "rule.lunation.full.aries",
+        "title": "Next Full Moon in 1 days — Aries Full Moon",
+        "subtitle": "Exact on Oct 7, 2025",
+        "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
-            "id": "echo.tech.printing_press.1440s",
-            "year": "1440s",
-            "event": "Gutenberg’s Printing Press",
-            "blurb": "Knowledge revolution."
+            "id": "echo.us.american_revolution.1775-1783",
+            "year": "1775–1783",
+            "event": "American Revolution",
+            "blurb": "Independence of the U.S."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.fr.french_revolution.1789-1799",
+            "year": "1789–1799",
+            "event": "French Revolution",
+            "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       },
       "countdown_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 45 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 20, 2025 • estimated",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "rule_id": "rule.lunation.full.aries",
+        "title": "Next Full Moon in 1 days — Aries Full Moon",
+        "subtitle": "Exact on Oct 7, 2025",
+        "future_theme": "Courage peaks; decisive confrontations clarify direction. Lead with integrity.",
         "echoes": [
           {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
+            "id": "echo.us.american_revolution.1775-1783",
+            "year": "1775–1783",
+            "event": "American Revolution",
+            "blurb": "Independence of the U.S."
           },
           {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
+            "id": "echo.fr.french_revolution.1789-1799",
+            "year": "1789–1799",
+            "event": "French Revolution",
+            "blurb": "Monarchy collapses; democracy stirs."
           }
         ],
-        "estimated": true
+        "estimated": false,
+        "event_date": "2025-10-07"
       }
     }
   ]
