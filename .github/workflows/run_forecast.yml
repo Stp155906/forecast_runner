@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: true   # use GITHUB_TOKEN for push
+          persist-credentials: true
           fetch-depth: 0
 
       - name: Set up Python
@@ -27,29 +27,16 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run exporter
-        env:
-          # Optional: override output base; default is repo folder
-          # FORECAST_BASE_DIR: ${{ github.workspace }}
         run: python copy_of_full_year_day_forecast_mundane_events.py
-
-      - name: Show git status (debug)
-        run: |
-          git status --porcelain
-          ls -la forecast_7d || true
-          ls -la forecast_annual || true
-          ls -la eclipse_debug || true
 
       - name: Commit changes (if any)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add forecast_7d forecast_annual eclipse_debug || true
-
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-
           git commit -m "chore(data): update forecasts [skip ci]"
           git push origin HEAD:main
