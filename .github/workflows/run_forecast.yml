@@ -31,6 +31,29 @@ jobs:
       - name: Run exporter
         run: python final_full_year_day_forecast_mundane_events.py
 
+      - name: Debug — show where files were written
+        run: |
+          echo "PWD=$(pwd)"
+          echo "Repo tree (top level):"
+          ls -la
+          echo
+          echo "Contents of forecast_7d and forecast_annual (if any):"
+          ls -la forecast_7d || true
+          ls -la forecast_annual || true
+          echo
+          echo "Git status before add:"
+          git status
+          echo
+          echo "Recent writes touching 'forecast_' paths:"
+          git ls-files --others --exclude-standard | grep '^forecast_' || true
+          echo
+          echo "Check for .gitignore rules hitting these folders:"
+          (grep -n 'forecast_7d\|forecast_annual' .gitignore || echo 'no matching .gitignore entries') || true
+          echo
+          echo "Sample JSON field (generated_utc) to confirm content changed:"
+          jq -r '.generated_utc' forecast_7d/forecast_moon_events.json 2>/dev/null || echo "moon_events.json missing"
+
+
       - name: Commit changes (force add JSONs)
         run: |
           git config user.name  "github-actions[bot]"
