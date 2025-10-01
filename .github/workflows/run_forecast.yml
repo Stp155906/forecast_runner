@@ -59,8 +59,11 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # force-add because folders may be in .gitignore
-          git add -f forecast_7d forecast_annual eclipse_debug || true
+          # Force-add (they're ignored in .gitignore)
+          git add -A -f forecast_7d/ forecast_annual/ || true
+
+          echo "Staged files:"
+          git diff --cached --name-only || true
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
