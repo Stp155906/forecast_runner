@@ -399,7 +399,8 @@ def phase_label_for_day(eph_by_day, d: str) -> str:
 
 # ---------- Main builder ----------
 def build_window(start_date_str: str|None, days: int) -> Dict[str,Any]:
-    today = datetime.now(timezone.utc).date()
+    from datetime import date  # already imported at top
+    today = date.today()  # local date, not UTC
     start = datetime.strptime(start_date_str, "%Y-%m-%d").date() if start_date_str else today
     window = daterange(start, days)
 
