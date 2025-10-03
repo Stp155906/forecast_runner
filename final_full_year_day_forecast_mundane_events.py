@@ -229,11 +229,11 @@ def fetch_ephemeris_for_year(year: int) -> Dict[str, Dict[str,str]]:
     return norm
 
 def ensure_ephemeris_loaded(eph_by_day: Dict[str,Dict[str,str]], start: date, days: int):
-    """Merge year data from cache for the whole window (+buffer)."""
-    buffer_days = 90
-    end_for_eph = start + timedelta(days=days + buffer_days)
+    """Merge year data from cache for exactly the forecast window (no extra buffer)."""
+    end_for_eph = start + timedelta(days=days)
     for y in range(start.year, end_for_eph.year + 1):
         eph_by_day.update(fetch_ephemeris_for_year(y))
+
 
 def extract_sign_from_ephemeris(pos: str) -> str:
     return (pos or "").split(" ")[0].title().strip()
