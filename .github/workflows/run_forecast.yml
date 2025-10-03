@@ -28,8 +28,11 @@ jobs:
           python -m pip install -U pip
           python -m pip install -r requirements.txt
 
-      - name: Run exporter
-        run: python final_full_year_day_forecast_mundane_events.py
+      - name: Run exporter (anchor to today)
+        run: |
+          export FORECAST_START_DATE="$(date -u +%Y-%m-%d)"
+          echo "Using FORECAST_START_DATE=$FORECAST_START_DATE"
+          python final_full_year_day_forecast_mundane_events.py
 
       - name: Debug — show where files were written
         run: |
@@ -52,7 +55,6 @@ jobs:
           echo
           echo "Sample JSON field (generated_utc) to confirm content changed:"
           jq -r '.generated_utc' forecast_7d/forecast_moon_events.json 2>/dev/null || echo "moon_events.json missing"
-
 
       - name: Commit changes (force add JSONs)
         run: |
