@@ -1,61 +1,10 @@
 {
-  "generated_utc": "2025-11-02T05:11:34Z",
+  "generated_utc": "2025-11-03T05:13:20Z",
   "window": {
-    "start": "2025-11-02",
+    "start": "2025-11-03",
     "days": 366
   },
   "days": [
-    {
-      "date": "2025-11-02",
-      "aspects": [
-        {
-          "body1": "jupiter",
-          "body2": "saturn",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 119.247,
-          "orb_deg": 0.753,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 114.64,
-              "sign": "Cancer",
-              "speed_deg_per_day": 0.029
-            },
-            "saturn": {
-              "lon_deg": 355.39,
-              "sign": "Pisces",
-              "speed_deg_per_day": -0.043
-            }
-          },
-          "importance_score": 0.918,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.jupiter.trine.saturn.any",
-            "title": "Jupiter △ Saturn — Structure Meets Growth",
-            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 0.8° (applying)",
-            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
-            "echoes": [
-              {
-                "id": "echo.eu.enlightenment.1600-1700s",
-                "year": "1600s–1700s",
-                "event": "The Enlightenment",
-                "blurb": "Reason, rights, new philosophies."
-              },
-              {
-                "id": "echo.industry.industrial_revolution.18-19c",
-                "year": "18th–19th centuries",
-                "event": "Industrial Revolution",
-                "blurb": "Tech transforms economy & society."
-              }
-            ]
-          }
-        }
-      ]
-    },
     {
       "date": "2025-11-03",
       "aspects": [
@@ -364,7 +313,54 @@
     },
     {
       "date": "2025-11-09",
-      "aspects": []
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 119.66,
+          "orb_deg": 0.34,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 114.78,
+              "sign": "Cancer",
+              "speed_deg_per_day": 0.006
+            },
+            "saturn": {
+              "lon_deg": 355.12,
+              "sign": "Pisces",
+              "speed_deg_per_day": -0.032
+            }
+          },
+          "importance_score": 0.99,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 0.3° (applying)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "date": "2025-11-10",
@@ -1796,6 +1792,10 @@
     },
     {
       "date": "2026-11-02",
+      "aspects": []
+    },
+    {
+      "date": "2026-11-03",
       "aspects": []
     }
   ]
