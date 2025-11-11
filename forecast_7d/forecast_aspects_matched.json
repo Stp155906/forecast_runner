@@ -1,61 +1,10 @@
 {
-  "generated_utc": "2025-11-10T05:13:15Z",
+  "generated_utc": "2025-11-11T05:13:09Z",
   "window": {
-    "start": "2025-11-10",
+    "start": "2025-11-11",
     "days": 7
   },
   "days": [
-    {
-      "date": "2025-11-10",
-      "aspects": [
-        {
-          "body1": "jupiter",
-          "body2": "saturn",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 119.7,
-          "orb_deg": 0.3,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 114.79,
-              "sign": "Cancer",
-              "speed_deg_per_day": 0.003
-            },
-            "saturn": {
-              "lon_deg": 355.09,
-              "sign": "Pisces",
-              "speed_deg_per_day": -0.031
-            }
-          },
-          "importance_score": 0.997,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.jupiter.trine.saturn.any",
-            "title": "Jupiter △ Saturn — Structure Meets Growth",
-            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 0.3° (applying)",
-            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
-            "echoes": [
-              {
-                "id": "echo.eu.enlightenment.1600-1700s",
-                "year": "1600s–1700s",
-                "event": "The Enlightenment",
-                "blurb": "Reason, rights, new philosophies."
-              },
-              {
-                "id": "echo.industry.industrial_revolution.18-19c",
-                "year": "18th–19th centuries",
-                "event": "Industrial Revolution",
-                "blurb": "Tech transforms economy & society."
-              }
-            ]
-          }
-        }
-      ]
-    },
     {
       "date": "2025-11-11",
       "aspects": [
@@ -343,6 +292,57 @@
             "rule_id": "dev.jupiter.trine.saturn.any",
             "title": "Jupiter △ Saturn — Structure Meets Growth",
             "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 0.2° (applying)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 119.838,
+          "orb_deg": 0.162,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 114.74,
+              "sign": "Cancer",
+              "speed_deg_per_day": -0.021
+            },
+            "saturn": {
+              "lon_deg": 354.91,
+              "sign": "Pisces",
+              "speed_deg_per_day": -0.019
+            }
+          },
+          "importance_score": 1.0,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 0.2° (separating)",
             "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
             "echoes": [
               {
