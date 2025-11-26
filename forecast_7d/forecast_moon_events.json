@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2025-11-25T05:12:56Z",
+  "generated_utc": "2025-11-26T05:12:33Z",
   "window": {
-    "start": "2025-11-25",
+    "start": "2025-11-26",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2025-12-20",
-      "days_out": 25,
+      "days_out": 24,
       "sign": "Sagittarius",
       "title": "Sagittarius New Moon → Dec 20, 2025",
       "future_theme": "Kick off study, travel, legal, or publishing tracks.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2025-12-04",
-      "days_out": 9,
+      "days_out": 8,
       "sign": "Taurus",
       "title": "Taurus Full Moon → Dec 4, 2025",
       "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
@@ -59,7 +59,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2025-12-04",
-      "days_out": 9,
+      "days_out": 8,
       "sign": "Taurus",
       "title": "Taurus Full Moon → Dec 4, 2025",
       "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2025-11-25",
-      "moon": {
-        "phase": "waxing crescent",
-        "sign": "Capricorn"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Waxing Crescent (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.sagittarius",
-        "title": "Next New Moon in 25 days — Sagittarius New Moon",
-        "subtitle": "Exact on Dec 20, 2025",
-        "future_theme": "Kick off study, travel, legal, or publishing tracks.",
-        "echoes": [
-          {
-            "id": "echo.age_of_exploration.1500s",
-            "year": "1500s",
-            "event": "Age of Exploration",
-            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
-          },
-          {
-            "id": "echo.space.moon_landing.1969",
-            "year": "1969",
-            "event": "Moon Landing",
-            "blurb": "Historic space achievement."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2025-12-20"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.taurus",
-        "title": "Next Full Moon in 9 days — Taurus Full Moon",
-        "subtitle": "Exact on Dec 4, 2025",
-        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
-        "echoes": [
-          {
-            "id": "echo.finance.great_depression.1929",
-            "year": "1929",
-            "event": "The Great Depression",
-            "blurb": "Worldwide economic collapse."
-          },
-          {
-            "id": "echo.us.gold_rush.1848-1855",
-            "year": "1848–1855",
-            "event": "California Gold Rush",
-            "blurb": "Mass migration; boomtowns."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2025-12-04"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.taurus",
-        "title": "Next Full Moon in 9 days — Taurus Full Moon",
-        "subtitle": "Exact on Dec 4, 2025",
-        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
-        "echoes": [
-          {
-            "id": "echo.finance.great_depression.1929",
-            "year": "1929",
-            "event": "The Great Depression",
-            "blurb": "Worldwide economic collapse."
-          },
-          {
-            "id": "echo.us.gold_rush.1848-1855",
-            "year": "1848–1855",
-            "event": "California Gold Rush",
-            "blurb": "Mass migration; boomtowns."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2025-12-04"
-      }
-    },
     {
       "date": "2025-11-26",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.taurus",
         "title": "Next Full Moon in 3 days — Taurus Full Moon",
+        "subtitle": "Exact on Dec 4, 2025",
+        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
+        "echoes": [
+          {
+            "id": "echo.finance.great_depression.1929",
+            "year": "1929",
+            "event": "The Great Depression",
+            "blurb": "Worldwide economic collapse."
+          },
+          {
+            "id": "echo.us.gold_rush.1848-1855",
+            "year": "1848–1855",
+            "event": "California Gold Rush",
+            "blurb": "Mass migration; boomtowns."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2025-12-04"
+      }
+    },
+    {
+      "date": "2025-12-02",
+      "moon": {
+        "phase": "waxing gibbous",
+        "sign": "Aries"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Waxing Gibbous (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.sagittarius",
+        "title": "Next New Moon in 18 days — Sagittarius New Moon",
+        "subtitle": "Exact on Dec 20, 2025",
+        "future_theme": "Kick off study, travel, legal, or publishing tracks.",
+        "echoes": [
+          {
+            "id": "echo.age_of_exploration.1500s",
+            "year": "1500s",
+            "event": "Age of Exploration",
+            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
+          },
+          {
+            "id": "echo.space.moon_landing.1969",
+            "year": "1969",
+            "event": "Moon Landing",
+            "blurb": "Historic space achievement."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2025-12-20"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.taurus",
+        "title": "Next Full Moon in 2 days — Taurus Full Moon",
+        "subtitle": "Exact on Dec 4, 2025",
+        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
+        "echoes": [
+          {
+            "id": "echo.finance.great_depression.1929",
+            "year": "1929",
+            "event": "The Great Depression",
+            "blurb": "Worldwide economic collapse."
+          },
+          {
+            "id": "echo.us.gold_rush.1848-1855",
+            "year": "1848–1855",
+            "event": "California Gold Rush",
+            "blurb": "Mass migration; boomtowns."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2025-12-04"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.taurus",
+        "title": "Next Full Moon in 2 days — Taurus Full Moon",
         "subtitle": "Exact on Dec 4, 2025",
         "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
         "echoes": [
