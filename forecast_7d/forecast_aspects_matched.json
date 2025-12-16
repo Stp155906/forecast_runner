@@ -1,153 +1,10 @@
 {
-  "generated_utc": "2025-12-15T05:18:36Z",
+  "generated_utc": "2025-12-16T05:16:09Z",
   "window": {
-    "start": "2025-12-15",
+    "start": "2025-12-16",
     "days": 7
   },
   "days": [
-    {
-      "date": "2025-12-15",
-      "aspects": [
-        {
-          "body1": "jupiter",
-          "body2": "saturn",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 117.958,
-          "orb_deg": 2.042,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 113.01,
-              "sign": "Cancer",
-              "speed_deg_per_day": -0.104
-            },
-            "saturn": {
-              "lon_deg": 355.05,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.031
-            }
-          },
-          "importance_score": 0.693,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.jupiter.trine.saturn.any",
-            "title": "Jupiter △ Saturn — Structure Meets Growth",
-            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 2.0° (separating)",
-            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
-            "echoes": [
-              {
-                "id": "echo.eu.enlightenment.1600-1700s",
-                "year": "1600s–1700s",
-                "event": "The Enlightenment",
-                "blurb": "Reason, rights, new philosophies."
-              },
-              {
-                "id": "echo.industry.industrial_revolution.18-19c",
-                "year": "18th–19th centuries",
-                "event": "Industrial Revolution",
-                "blurb": "Tech transforms economy & society."
-              }
-            ]
-          }
-        },
-        {
-          "body1": "mars",
-          "body2": "neptune",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 89.616,
-          "orb_deg": 0.384,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "mars": {
-              "lon_deg": 269.4,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 0.755
-            },
-            "neptune": {
-              "lon_deg": 359.01,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.003
-            }
-          },
-          "importance_score": 0.936,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.mars.square.neptune.any",
-            "title": "Mars □ Neptune — Vapor Trails",
-            "subtitle": "Mars in Sagittarius □ Neptune in Pisces — orb 0.4° (separating)",
-            "future_theme": "Scattered effort, leaks, and mirages. Pause, clarify the target, then act with precision.",
-            "echoes": [
-              {
-                "id": "echo.vn.vietnam_war.1955-1975",
-                "year": "1955–1975",
-                "event": "Vietnam War",
-                "blurb": "Long, divisive conflict."
-              },
-              {
-                "id": "echo.ua.chernobyl.1986",
-                "year": "1986",
-                "event": "Chernobyl Disaster",
-                "blurb": "Nuclear accident; lasting impact."
-              }
-            ]
-          }
-        },
-        {
-          "body1": "saturn",
-          "body2": "sun",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 92.158,
-          "orb_deg": 2.158,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "saturn": {
-              "lon_deg": 355.05,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.031
-            },
-            "sun": {
-              "lon_deg": 262.89,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.018
-            }
-          },
-          "importance_score": 0.736,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.sun-saturn-square.any-sign",
-            "title": "Sun □ Saturn — Pressure Test",
-            "subtitle": "Saturn in Pisces □ Sun in Sagittarius — orb 2.2° (applying)",
-            "future_theme": "Deadlines, accountability, and structural reality-checks. Trim excess; strengthen the frame.",
-            "echoes": [
-              {
-                "id": "echo.eu.congress_vienna.1815",
-                "year": "1815",
-                "event": "Congress of Vienna",
-                "blurb": "Redraws Europe after Napoleon."
-              },
-              {
-                "id": "echo.finance.gfc.2008",
-                "year": "2008",
-                "event": "Global Financial Crisis",
-                "blurb": "Severe worldwide downturn."
-              }
-            ]
-          }
-        }
-      ]
-    },
     {
       "date": "2025-12-16",
       "aspects": [
@@ -757,6 +614,57 @@
             "rule_id": "dev.jupiter.trine.saturn.any",
             "title": "Jupiter △ Saturn — Structure Meets Growth",
             "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 2.9° (separating)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-12-22",
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 116.939,
+          "orb_deg": 3.061,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 112.24,
+              "sign": "Cancer",
+              "speed_deg_per_day": -0.118
+            },
+            "saturn": {
+              "lon_deg": 355.3,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.043
+            }
+          },
+          "importance_score": 0.514,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 3.1° (separating)",
             "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
             "echoes": [
               {
