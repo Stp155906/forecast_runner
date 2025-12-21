@@ -1,749 +1,10 @@
 {
-  "generated_utc": "2025-12-20T05:12:31Z",
+  "generated_utc": "2025-12-21T05:13:49Z",
   "window": {
-    "start": "2025-12-20",
+    "start": "2025-12-21",
     "days": 7
   },
   "weekly_aspects": [
-    {
-      "date": "2025-12-20",
-      "moon": {
-        "phase": "new",
-        "sign": "Sagittarius"
-      },
-      "aspects": [
-        {
-          "body1": "jupiter",
-          "body2": "saturn",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 117.249,
-          "orb_deg": 2.751,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 112.47,
-              "sign": "Cancer",
-              "speed_deg_per_day": -0.115
-            },
-            "saturn": {
-              "lon_deg": 355.22,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.04
-            }
-          },
-          "importance_score": 0.569,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.jupiter.trine.saturn.any",
-            "title": "Jupiter △ Saturn — Structure Meets Growth",
-            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 2.8° (separating)",
-            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
-            "echoes": [
-              {
-                "id": "echo.eu.enlightenment.1600-1700s",
-                "year": "1600s–1700s",
-                "event": "The Enlightenment",
-                "blurb": "Reason, rights, new philosophies."
-              },
-              {
-                "id": "echo.industry.industrial_revolution.18-19c",
-                "year": "18th–19th centuries",
-                "event": "Industrial Revolution",
-                "blurb": "Tech transforms economy & society."
-              }
-            ]
-          }
-        },
-        {
-          "body1": "jupiter",
-          "body2": "venus",
-          "aspect_name": "quincunx",
-          "family": "12th-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 150.0,
-          "angle_measured_deg": 151.271,
-          "orb_deg": 1.271,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 112.47,
-              "sign": "Cancer",
-              "speed_deg_per_day": -0.115
-            },
-            "venus": {
-              "lon_deg": 263.74,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.259
-            }
-          },
-          "importance_score": 0.591,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Jupiter quincunx Venus",
-            "subtitle": "Jupiter in Cancer quincunx Venus in Sagittarius — orb 1.3° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "mars",
-          "body2": "moon",
-          "aspect_name": "conjunction",
-          "family": "1st-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 0.0,
-          "angle_measured_deg": 5.974,
-          "orb_deg": 5.974,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "mars": {
-              "lon_deg": 273.18,
-              "sign": "Capricorn",
-              "speed_deg_per_day": 0.759
-            },
-            "moon": {
-              "lon_deg": 267.2,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 12.163
-            }
-          },
-          "importance_score": 0.291,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Mars ☌ Moon",
-            "subtitle": "Mars in Capricorn ☌ Moon in Sagittarius — orb 6.0° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "mars",
-          "body2": "neptune",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 85.857,
-          "orb_deg": 4.143,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "mars": {
-              "lon_deg": 273.18,
-              "sign": "Capricorn",
-              "speed_deg_per_day": 0.759
-            },
-            "neptune": {
-              "lon_deg": 359.03,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.006
-            }
-          },
-          "importance_score": 0.31,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Mars □ Neptune",
-            "subtitle": "Mars in Capricorn □ Neptune in Pisces — orb 4.1° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "mars",
-          "body2": "sun",
-          "aspect_name": "conjunction",
-          "family": "1st-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 0.0,
-          "angle_measured_deg": 5.199,
-          "orb_deg": 5.199,
-          "phase": "applying",
-          "out_of_sign": true,
-          "positions": {
-            "mars": {
-              "lon_deg": 273.18,
-              "sign": "Capricorn",
-              "speed_deg_per_day": 0.759
-            },
-            "sun": {
-              "lon_deg": 267.98,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.019
-            }
-          },
-          "importance_score": 0.403,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Mars ☌ Sun",
-            "subtitle": "Mars in Capricorn ☌ Sun in Sagittarius — orb 5.2° (applying)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "moon",
-          "body2": "neptune",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 91.831,
-          "orb_deg": 1.831,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "moon": {
-              "lon_deg": 267.2,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 12.163
-            },
-            "neptune": {
-              "lon_deg": 359.03,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.006
-            }
-          },
-          "importance_score": 0.764,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Moon □ Neptune",
-            "subtitle": "Moon in Sagittarius □ Neptune in Pisces — orb 1.8° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "moon",
-          "body2": "saturn",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 88.015,
-          "orb_deg": 1.985,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "moon": {
-              "lon_deg": 267.2,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 12.163
-            },
-            "saturn": {
-              "lon_deg": 355.22,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.04
-            }
-          },
-          "importance_score": 0.77,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Moon □ Saturn",
-            "subtitle": "Moon in Sagittarius □ Saturn in Pisces — orb 2.0° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "moon",
-          "body2": "sun",
-          "aspect_name": "conjunction",
-          "family": "1st-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 0.0,
-          "angle_measured_deg": 0.775,
-          "orb_deg": 0.775,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "moon": {
-              "lon_deg": 267.2,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 12.163
-            },
-            "sun": {
-              "lon_deg": 267.98,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.019
-            }
-          },
-          "importance_score": 1.0,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Moon ☌ Sun",
-            "subtitle": "Moon in Sagittarius ☌ Sun in Sagittarius — orb 0.8° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "moon",
-          "body2": "uranus",
-          "aspect_name": "quincunx",
-          "family": "12th-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 150.0,
-          "angle_measured_deg": 150.756,
-          "orb_deg": 0.756,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "moon": {
-              "lon_deg": 267.2,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 12.163
-            },
-            "uranus": {
-              "lon_deg": 57.96,
-              "sign": "Taurus",
-              "speed_deg_per_day": -0.035
-            }
-          },
-          "importance_score": 0.823,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Moon quincunx Uranus",
-            "subtitle": "Moon in Sagittarius quincunx Uranus in Taurus — orb 0.8° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "moon",
-          "body2": "venus",
-          "aspect_name": "conjunction",
-          "family": "1st-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 0.0,
-          "angle_measured_deg": 3.465,
-          "orb_deg": 3.465,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "moon": {
-              "lon_deg": 267.2,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 12.163
-            },
-            "venus": {
-              "lon_deg": 263.74,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.259
-            }
-          },
-          "importance_score": 0.638,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Moon ☌ Venus",
-            "subtitle": "Moon in Sagittarius ☌ Venus in Sagittarius — orb 3.5° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "neptune",
-          "body2": "saturn",
-          "aspect_name": "conjunction",
-          "family": "1st-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 0.0,
-          "angle_measured_deg": 3.816,
-          "orb_deg": 3.816,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "neptune": {
-              "lon_deg": 359.03,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.006
-            },
-            "saturn": {
-              "lon_deg": 355.22,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.04
-            }
-          },
-          "importance_score": 0.523,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Neptune ☌ Saturn",
-            "subtitle": "Neptune in Pisces ☌ Saturn in Pisces — orb 3.8° (applying)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "neptune",
-          "body2": "sun",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 91.056,
-          "orb_deg": 1.056,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "neptune": {
-              "lon_deg": 359.03,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.006
-            },
-            "sun": {
-              "lon_deg": 267.98,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.019
-            }
-          },
-          "importance_score": 0.906,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Neptune □ Sun",
-            "subtitle": "Neptune in Pisces □ Sun in Sagittarius — orb 1.1° (applying)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "neptune",
-          "body2": "uranus",
-          "aspect_name": "sextile",
-          "family": "6th-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 60.0,
-          "angle_measured_deg": 58.925,
-          "orb_deg": 1.075,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "neptune": {
-              "lon_deg": 359.03,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.006
-            },
-            "uranus": {
-              "lon_deg": 57.96,
-              "sign": "Taurus",
-              "speed_deg_per_day": -0.035
-            }
-          },
-          "importance_score": 0.695,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Neptune ✶ Uranus",
-            "subtitle": "Neptune in Pisces ✶ Uranus in Taurus — orb 1.1° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "neptune",
-          "body2": "venus",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 95.296,
-          "orb_deg": 5.296,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "neptune": {
-              "lon_deg": 359.03,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.006
-            },
-            "venus": {
-              "lon_deg": 263.74,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.259
-            }
-          },
-          "importance_score": 0.114,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Neptune □ Venus",
-            "subtitle": "Neptune in Pisces □ Venus in Sagittarius — orb 5.3° (applying)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "saturn",
-          "body2": "sun",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 87.24,
-          "orb_deg": 2.76,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "saturn": {
-              "lon_deg": 355.22,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.04
-            },
-            "sun": {
-              "lon_deg": 267.98,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.019
-            }
-          },
-          "importance_score": 0.621,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.sun-saturn-square.any-sign",
-            "title": "Sun □ Saturn — Pressure Test",
-            "subtitle": "Saturn in Pisces □ Sun in Sagittarius — orb 2.8° (separating)",
-            "future_theme": "Deadlines, accountability, and structural reality-checks. Trim excess; strengthen the frame.",
-            "echoes": [
-              {
-                "id": "echo.eu.congress_vienna.1815",
-                "year": "1815",
-                "event": "Congress of Vienna",
-                "blurb": "Redraws Europe after Napoleon."
-              },
-              {
-                "id": "echo.finance.gfc.2008",
-                "year": "2008",
-                "event": "Global Financial Crisis",
-                "blurb": "Severe worldwide downturn."
-              }
-            ]
-          }
-        },
-        {
-          "body1": "saturn",
-          "body2": "uranus",
-          "aspect_name": "sextile",
-          "family": "6th-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 60.0,
-          "angle_measured_deg": 62.74,
-          "orb_deg": 2.74,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "saturn": {
-              "lon_deg": 355.22,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.04
-            },
-            "uranus": {
-              "lon_deg": 57.96,
-              "sign": "Taurus",
-              "speed_deg_per_day": -0.035
-            }
-          },
-          "importance_score": 0.315,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Saturn ✶ Uranus",
-            "subtitle": "Saturn in Pisces ✶ Uranus in Taurus — orb 2.7° (applying)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "saturn",
-          "body2": "venus",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 91.48,
-          "orb_deg": 1.48,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "saturn": {
-              "lon_deg": 355.22,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.04
-            },
-            "venus": {
-              "lon_deg": 263.74,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.259
-            }
-          },
-          "importance_score": 0.772,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Saturn □ Venus",
-            "subtitle": "Saturn in Pisces □ Venus in Sagittarius — orb 1.5° (applying)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "sun",
-          "body2": "uranus",
-          "aspect_name": "quincunx",
-          "family": "12th-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 150.0,
-          "angle_measured_deg": 149.981,
-          "orb_deg": 0.019,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "sun": {
-              "lon_deg": 267.98,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.019
-            },
-            "uranus": {
-              "lon_deg": 57.96,
-              "sign": "Taurus",
-              "speed_deg_per_day": -0.035
-            }
-          },
-          "importance_score": 1.0,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Sun quincunx Uranus",
-            "subtitle": "Sun in Sagittarius quincunx Uranus in Taurus — orb 0.0° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "sun",
-          "body2": "venus",
-          "aspect_name": "conjunction",
-          "family": "1st-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 0.0,
-          "angle_measured_deg": 4.24,
-          "orb_deg": 4.24,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "sun": {
-              "lon_deg": 267.98,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.019
-            },
-            "venus": {
-              "lon_deg": 263.74,
-              "sign": "Sagittarius",
-              "speed_deg_per_day": 1.259
-            }
-          },
-          "importance_score": 0.529,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Sun ☌ Venus",
-            "subtitle": "Sun in Sagittarius ☌ Venus in Sagittarius — orb 4.2° (applying)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        }
-      ],
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "New (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.sagittarius",
-        "title": "Next New Moon Today — Sagittarius New Moon",
-        "subtitle": "Exact on Dec 20, 2025",
-        "future_theme": "Kick off study, travel, legal, or publishing tracks.",
-        "echoes": [
-          {
-            "id": "echo.age_of_exploration.1500s",
-            "year": "1500s",
-            "event": "Age of Exploration",
-            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
-          },
-          {
-            "id": "echo.space.moon_landing.1969",
-            "year": "1969",
-            "event": "Moon Landing",
-            "blurb": "Historic space achievement."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2025-12-20"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 14 days — Full Moon",
-        "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
-        "echoes": [
-          {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
-          },
-          {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-03"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.sagittarius",
-        "title": "Next New Moon Today — Sagittarius New Moon",
-        "subtitle": "Exact on Dec 20, 2025",
-        "future_theme": "Kick off study, travel, legal, or publishing tracks.",
-        "echoes": [
-          {
-            "id": "echo.age_of_exploration.1500s",
-            "year": "1500s",
-            "event": "Age of Exploration",
-            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
-          },
-          {
-            "id": "echo.space.moon_landing.1969",
-            "year": "1969",
-            "event": "Moon Landing",
-            "blurb": "Historic space achievement."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2025-12-20"
-      }
-    },
     {
       "date": "2025-12-21",
       "moon": {
@@ -4109,39 +3370,633 @@
         "estimated": false,
         "event_date": "2026-01-03"
       }
+    },
+    {
+      "date": "2025-12-27",
+      "moon": {
+        "phase": "first quarter",
+        "sign": "Pisces"
+      },
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "mercury",
+          "aspect_name": "quincunx",
+          "family": "12th-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 150.0,
+          "angle_measured_deg": 149.104,
+          "orb_deg": 0.896,
+          "phase": "applying",
+          "out_of_sign": true,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 111.63,
+              "sign": "Cancer",
+              "speed_deg_per_day": -0.126
+            },
+            "mercury": {
+              "lon_deg": 260.74,
+              "sign": "Sagittarius",
+              "speed_deg_per_day": 1.494
+            }
+          },
+          "importance_score": 0.719,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Jupiter quincunx Mercury",
+            "subtitle": "Jupiter in Cancer quincunx Mercury in Sagittarius — orb 0.9° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "jupiter",
+          "body2": "moon",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 117.351,
+          "orb_deg": 2.649,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 111.63,
+              "sign": "Cancer",
+              "speed_deg_per_day": -0.126
+            },
+            "moon": {
+              "lon_deg": 354.28,
+              "sign": "Pisces",
+              "speed_deg_per_day": 16.949
+            }
+          },
+          "importance_score": 0.642,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Jupiter △ Moon — Harmony Flow",
+            "subtitle": "Jupiter in Cancer △ Moon in Pisces — orb 2.6° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 116.102,
+          "orb_deg": 3.898,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 111.63,
+              "sign": "Cancer",
+              "speed_deg_per_day": -0.126
+            },
+            "saturn": {
+              "lon_deg": 355.53,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.052
+            }
+          },
+          "importance_score": 0.368,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 3.9° (separating)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        },
+        {
+          "body1": "mars",
+          "body2": "sun",
+          "aspect_name": "conjunction",
+          "family": "1st-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 0.0,
+          "angle_measured_deg": 3.391,
+          "orb_deg": 3.391,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "mars": {
+              "lon_deg": 278.5,
+              "sign": "Capricorn",
+              "speed_deg_per_day": 0.764
+            },
+            "sun": {
+              "lon_deg": 275.11,
+              "sign": "Capricorn",
+              "speed_deg_per_day": 1.019
+            }
+          },
+          "importance_score": 0.663,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mars ☌ Sun",
+            "subtitle": "Mars in Capricorn ☌ Sun in Capricorn — orb 3.4° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "mars",
+          "body2": "venus",
+          "aspect_name": "conjunction",
+          "family": "1st-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 0.0,
+          "angle_measured_deg": 5.951,
+          "orb_deg": 5.951,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "mars": {
+              "lon_deg": 278.5,
+              "sign": "Capricorn",
+              "speed_deg_per_day": 0.764
+            },
+            "venus": {
+              "lon_deg": 272.55,
+              "sign": "Capricorn",
+              "speed_deg_per_day": 1.259
+            }
+          },
+          "importance_score": 0.263,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mars ☌ Venus",
+            "subtitle": "Mars in Capricorn ☌ Venus in Capricorn — orb 6.0° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "mercury",
+          "body2": "moon",
+          "aspect_name": "square",
+          "family": "4th-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 90.0,
+          "angle_measured_deg": 93.545,
+          "orb_deg": 3.545,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "mercury": {
+              "lon_deg": 260.74,
+              "sign": "Sagittarius",
+              "speed_deg_per_day": 1.494
+            },
+            "moon": {
+              "lon_deg": 354.28,
+              "sign": "Pisces",
+              "speed_deg_per_day": 16.949
+            }
+          },
+          "importance_score": 0.46,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mercury □ Moon",
+            "subtitle": "Mercury in Sagittarius □ Moon in Pisces — orb 3.5° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "mercury",
+          "body2": "saturn",
+          "aspect_name": "square",
+          "family": "4th-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 90.0,
+          "angle_measured_deg": 94.794,
+          "orb_deg": 4.794,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "mercury": {
+              "lon_deg": 260.74,
+              "sign": "Sagittarius",
+              "speed_deg_per_day": 1.494
+            },
+            "saturn": {
+              "lon_deg": 355.53,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.052
+            }
+          },
+          "importance_score": 0.206,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mercury □ Saturn",
+            "subtitle": "Mercury in Sagittarius □ Saturn in Pisces — orb 4.8° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "moon",
+          "body2": "neptune",
+          "aspect_name": "conjunction",
+          "family": "1st-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 0.0,
+          "angle_measured_deg": 4.805,
+          "orb_deg": 4.805,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "moon": {
+              "lon_deg": 354.28,
+              "sign": "Pisces",
+              "speed_deg_per_day": 16.949
+            },
+            "neptune": {
+              "lon_deg": 359.09,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.01
+            }
+          },
+          "importance_score": 0.439,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Moon ☌ Neptune",
+            "subtitle": "Moon in Pisces ☌ Neptune in Pisces — orb 4.8° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "moon",
+          "body2": "saturn",
+          "aspect_name": "conjunction",
+          "family": "1st-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 0.0,
+          "angle_measured_deg": 1.249,
+          "orb_deg": 1.249,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "moon": {
+              "lon_deg": 354.28,
+              "sign": "Pisces",
+              "speed_deg_per_day": 16.949
+            },
+            "saturn": {
+              "lon_deg": 355.53,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.052
+            }
+          },
+          "importance_score": 0.971,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Moon ☌ Saturn",
+            "subtitle": "Moon in Pisces ☌ Saturn in Pisces — orb 1.2° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "moon",
+          "body2": "uranus",
+          "aspect_name": "sextile",
+          "family": "6th-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 60.0,
+          "angle_measured_deg": 63.448,
+          "orb_deg": 3.448,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "moon": {
+              "lon_deg": 354.28,
+              "sign": "Pisces",
+              "speed_deg_per_day": 16.949
+            },
+            "uranus": {
+              "lon_deg": 57.73,
+              "sign": "Taurus",
+              "speed_deg_per_day": -0.031
+            }
+          },
+          "importance_score": 0.152,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Moon ✶ Uranus",
+            "subtitle": "Moon in Pisces ✶ Uranus in Taurus — orb 3.4° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "neptune",
+          "body2": "saturn",
+          "aspect_name": "conjunction",
+          "family": "1st-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 0.0,
+          "angle_measured_deg": 3.557,
+          "orb_deg": 3.557,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "neptune": {
+              "lon_deg": 359.09,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.01
+            },
+            "saturn": {
+              "lon_deg": 355.53,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.052
+            }
+          },
+          "importance_score": 0.555,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Neptune ☌ Saturn",
+            "subtitle": "Neptune in Pisces ☌ Saturn in Pisces — orb 3.6° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "neptune",
+          "body2": "uranus",
+          "aspect_name": "sextile",
+          "family": "6th-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 60.0,
+          "angle_measured_deg": 58.643,
+          "orb_deg": 1.357,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "neptune": {
+              "lon_deg": 359.09,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.01
+            },
+            "uranus": {
+              "lon_deg": 57.73,
+              "sign": "Taurus",
+              "speed_deg_per_day": -0.031
+            }
+          },
+          "importance_score": 0.628,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Neptune ✶ Uranus",
+            "subtitle": "Neptune in Pisces ✶ Uranus in Taurus — orb 1.4° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "neptune",
+          "body2": "venus",
+          "aspect_name": "square",
+          "family": "4th-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 90.0,
+          "angle_measured_deg": 86.537,
+          "orb_deg": 3.463,
+          "phase": "separating",
+          "out_of_sign": true,
+          "positions": {
+            "neptune": {
+              "lon_deg": 359.09,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.01
+            },
+            "venus": {
+              "lon_deg": 272.55,
+              "sign": "Capricorn",
+              "speed_deg_per_day": 1.259
+            }
+          },
+          "importance_score": 0.412,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Neptune □ Venus",
+            "subtitle": "Neptune in Pisces □ Venus in Capricorn — orb 3.5° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "saturn",
+          "body2": "uranus",
+          "aspect_name": "sextile",
+          "family": "6th-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 60.0,
+          "angle_measured_deg": 62.2,
+          "orb_deg": 2.2,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "saturn": {
+              "lon_deg": 355.53,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.052
+            },
+            "uranus": {
+              "lon_deg": 57.73,
+              "sign": "Taurus",
+              "speed_deg_per_day": -0.031
+            }
+          },
+          "importance_score": 0.45,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Saturn ✶ Uranus",
+            "subtitle": "Saturn in Pisces ✶ Uranus in Taurus — orb 2.2° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "sun",
+          "body2": "venus",
+          "aspect_name": "conjunction",
+          "family": "1st-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 0.0,
+          "angle_measured_deg": 2.56,
+          "orb_deg": 2.56,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "sun": {
+              "lon_deg": 275.11,
+              "sign": "Capricorn",
+              "speed_deg_per_day": 1.019
+            },
+            "venus": {
+              "lon_deg": 272.55,
+              "sign": "Capricorn",
+              "speed_deg_per_day": 1.259
+            }
+          },
+          "importance_score": 0.765,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Sun ☌ Venus",
+            "subtitle": "Sun in Capricorn ☌ Venus in Capricorn — orb 2.6° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        }
+      ],
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "First Quarter (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.any",
+        "title": "Next New Moon in 22 days — New Moon",
+        "subtitle": "Exact on Jan 18, 2026",
+        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "echoes": [
+          {
+            "id": "echo.eu.enlightenment.1600-1700s",
+            "year": "1600s–1700s",
+            "event": "The Enlightenment",
+            "blurb": "Reason, rights, new philosophies."
+          },
+          {
+            "id": "echo.renaissance.begins.1400s",
+            "year": "1400s",
+            "event": "Renaissance dawns",
+            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-18"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.any",
+        "title": "Next Full Moon in 7 days — Full Moon",
+        "subtitle": "Exact on Jan 3, 2026",
+        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "echoes": [
+          {
+            "id": "echo.industry.industrial_revolution.18-19c",
+            "year": "18th–19th centuries",
+            "event": "Industrial Revolution",
+            "blurb": "Tech transforms economy & society."
+          },
+          {
+            "id": "echo.tech.internet_takeoff.1993",
+            "year": "1993",
+            "event": "Commercial Internet takes off",
+            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-03"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.any",
+        "title": "Next Full Moon in 7 days — Full Moon",
+        "subtitle": "Exact on Jan 3, 2026",
+        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "echoes": [
+          {
+            "id": "echo.industry.industrial_revolution.18-19c",
+            "year": "18th–19th centuries",
+            "event": "Industrial Revolution",
+            "blurb": "Tech transforms economy & society."
+          },
+          {
+            "id": "echo.tech.internet_takeoff.1993",
+            "year": "1993",
+            "event": "Commercial Internet takes off",
+            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-03"
+      }
     }
   ],
   "meta": {
     "next_new_moon": {
       "phase": "new",
       "kind": "new",
-      "date": "2025-12-20",
-      "days_out": 0,
-      "sign": "Sagittarius",
-      "title": "Sagittarius New Moon → Dec 20, 2025",
-      "future_theme": "Kick off study, travel, legal, or publishing tracks.",
+      "date": "2026-01-18",
+      "days_out": 28,
+      "sign": "",
+      "title": "New Moon → Jan 18, 2026",
+      "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
       "echoes": [
         {
-          "id": "echo.age_of_exploration.1500s",
-          "year": "1500s",
-          "event": "Age of Exploration",
-          "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
+          "id": "echo.eu.enlightenment.1600-1700s",
+          "year": "1600s–1700s",
+          "event": "The Enlightenment",
+          "blurb": "Reason, rights, new philosophies."
         },
         {
-          "id": "echo.space.moon_landing.1969",
-          "year": "1969",
-          "event": "Moon Landing",
-          "blurb": "Historic space achievement."
+          "id": "echo.renaissance.begins.1400s",
+          "year": "1400s",
+          "event": "Renaissance dawns",
+          "blurb": "Humanist arts and science revive across Europe; new civic ideals."
         }
       ],
-      "rule_id": "rule.lunation.new.sagittarius",
+      "rule_id": "rule.lunation.new.any",
       "estimated": false
     },
     "next_full_moon": {
       "phase": "full",
       "kind": "full",
       "date": "2026-01-03",
-      "days_out": 14,
+      "days_out": 13,
       "sign": "",
       "title": "Full Moon → Jan 3, 2026",
       "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
@@ -4163,55 +4018,30 @@
       "estimated": false
     },
     "next_lunation": {
-      "phase": "new",
-      "kind": "new",
-      "date": "2025-12-20",
-      "days_out": 0,
-      "sign": "Sagittarius",
-      "title": "Sagittarius New Moon → Dec 20, 2025",
-      "future_theme": "Kick off study, travel, legal, or publishing tracks.",
+      "phase": "full",
+      "kind": "full",
+      "date": "2026-01-03",
+      "days_out": 13,
+      "sign": "",
+      "title": "Full Moon → Jan 3, 2026",
+      "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
       "echoes": [
         {
-          "id": "echo.age_of_exploration.1500s",
-          "year": "1500s",
-          "event": "Age of Exploration",
-          "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
+          "id": "echo.industry.industrial_revolution.18-19c",
+          "year": "18th–19th centuries",
+          "event": "Industrial Revolution",
+          "blurb": "Tech transforms economy & society."
         },
         {
-          "id": "echo.space.moon_landing.1969",
-          "year": "1969",
-          "event": "Moon Landing",
-          "blurb": "Historic space achievement."
+          "id": "echo.tech.internet_takeoff.1993",
+          "year": "1993",
+          "event": "Commercial Internet takes off",
+          "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
         }
       ],
-      "rule_id": "rule.lunation.new.sagittarius",
+      "rule_id": "rule.lunation.full.any",
       "estimated": false
     }
   },
-  "lunation_events": [
-    {
-      "date": "2025-12-20",
-      "phase": "new",
-      "kind": "new",
-      "sign": "Sagittarius",
-      "title": "Sagittarius New Moon → Dec 20, 2025",
-      "future_theme": "Kick off study, travel, legal, or publishing tracks.",
-      "echoes": [
-        {
-          "id": "echo.age_of_exploration.1500s",
-          "year": "1500s",
-          "event": "Age of Exploration",
-          "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
-        },
-        {
-          "id": "echo.space.moon_landing.1969",
-          "year": "1969",
-          "event": "Moon Landing",
-          "blurb": "Historic space achievement."
-        }
-      ],
-      "rule_id": "rule.lunation.new.sagittarius",
-      "estimated": false
-    }
-  ]
+  "lunation_events": []
 }
