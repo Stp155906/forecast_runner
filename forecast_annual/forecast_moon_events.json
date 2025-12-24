@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2025-12-23T05:17:22Z",
+  "generated_utc": "2025-12-24T05:17:34Z",
   "window": {
-    "start": "2025-12-23",
+    "start": "2025-12-24",
     "days": 366
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-01-18",
-      "days_out": 26,
+      "days_out": 25,
       "sign": "Capricorn",
       "title": "Capricorn New Moon → Jan 18, 2026",
       "future_theme": "Set structural goals; start accountability frameworks that can scale.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-01-03",
-      "days_out": 11,
+      "days_out": 10,
       "sign": "Cancer",
       "title": "Cancer Full Moon → Jan 3, 2026",
       "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
@@ -59,7 +59,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-01-03",
-      "days_out": 11,
+      "days_out": 10,
       "sign": "Cancer",
       "title": "Cancer Full Moon → Jan 3, 2026",
       "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2025-12-23",
-      "moon": {
-        "phase": "waxing crescent",
-        "sign": "Aquarius"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Waxing Crescent (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.capricorn",
-        "title": "Next New Moon in 26 days — Capricorn New Moon",
-        "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Set structural goals; start accountability frameworks that can scale.",
-        "echoes": [
-          {
-            "id": "echo.cold_war.birth.1947",
-            "year": "1947",
-            "event": "Cold War consolidation",
-            "blurb": "Blocs harden; security and ideology define a new order."
-          },
-          {
-            "id": "echo.dotcom.bubble.collapse.2000",
-            "year": "2000",
-            "event": "Dot-com bubble peaks and collapses",
-            "blurb": "Speculative excess gives way to platform consolidation and regulation."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-18"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.cancer",
-        "title": "Next Full Moon in 11 days — Cancer Full Moon",
-        "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
-        "echoes": [
-          {
-            "id": "echo.us.new_deal.1933",
-            "year": "1933–1939",
-            "event": "The New Deal",
-            "blurb": "Social safety nets and public works reshape the economy."
-          },
-          {
-            "id": "echo.public_health.sanitation.1800s",
-            "year": "1800s",
-            "event": "Modern sanitation movement",
-            "blurb": "Public health infrastructure, clean water, and urban reforms."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-03"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.cancer",
-        "title": "Next Full Moon in 11 days — Cancer Full Moon",
-        "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
-        "echoes": [
-          {
-            "id": "echo.us.new_deal.1933",
-            "year": "1933–1939",
-            "event": "The New Deal",
-            "blurb": "Social safety nets and public works reshape the economy."
-          },
-          {
-            "id": "echo.public_health.sanitation.1800s",
-            "year": "1800s",
-            "event": "Modern sanitation movement",
-            "blurb": "Public health infrastructure, clean water, and urban reforms."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-03"
-      }
-    },
     {
       "date": "2025-12-24",
       "moon": {
@@ -30806,6 +30722,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.cancer",
         "title": "Next Full Moon in 1 days — Cancer Full Moon",
+        "subtitle": "Exact on Dec 24, 2026",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
+        "echoes": [
+          {
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
+          },
+          {
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-12-24"
+      }
+    },
+    {
+      "date": "2026-12-24",
+      "moon": {
+        "phase": "full",
+        "sign": "Cancer"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Full (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.any",
+        "title": "Next New Moon in 14 days — New Moon",
+        "subtitle": "Exact on Jan 7, 2027",
+        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "echoes": [
+          {
+            "id": "echo.eu.enlightenment.1600-1700s",
+            "year": "1600s–1700s",
+            "event": "The Enlightenment",
+            "blurb": "Reason, rights, new philosophies."
+          },
+          {
+            "id": "echo.renaissance.begins.1400s",
+            "year": "1400s",
+            "event": "Renaissance dawns",
+            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-01-07"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon Today — Cancer Full Moon",
+        "subtitle": "Exact on Dec 24, 2026",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
+        "echoes": [
+          {
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
+          },
+          {
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-12-24"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon Today — Cancer Full Moon",
         "subtitle": "Exact on Dec 24, 2026",
         "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [

@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2025-12-23T05:17:22Z",
+  "generated_utc": "2025-12-24T05:17:34Z",
   "window": {
-    "start": "2025-12-23",
+    "start": "2025-12-24",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-01-18",
-      "days_out": 26,
+      "days_out": 25,
       "sign": "",
       "title": "New Moon → Jan 18, 2026",
       "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-01-03",
-      "days_out": 11,
+      "days_out": 10,
       "sign": "",
       "title": "Full Moon → Jan 3, 2026",
       "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
@@ -59,7 +59,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-01-03",
-      "days_out": 11,
+      "days_out": 10,
       "sign": "",
       "title": "Full Moon → Jan 3, 2026",
       "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2025-12-23",
-      "moon": {
-        "phase": "waxing crescent",
-        "sign": "Aquarius"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Waxing Crescent (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.any",
-        "title": "Next New Moon in 26 days — New Moon",
-        "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
-        "echoes": [
-          {
-            "id": "echo.eu.enlightenment.1600-1700s",
-            "year": "1600s–1700s",
-            "event": "The Enlightenment",
-            "blurb": "Reason, rights, new philosophies."
-          },
-          {
-            "id": "echo.renaissance.begins.1400s",
-            "year": "1400s",
-            "event": "Renaissance dawns",
-            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-18"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 11 days — Full Moon",
-        "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
-        "echoes": [
-          {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
-          },
-          {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-03"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 11 days — Full Moon",
-        "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
-        "echoes": [
-          {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
-          },
-          {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-03"
-      }
-    },
     {
       "date": "2025-12-24",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.any",
         "title": "Next Full Moon in 5 days — Full Moon",
+        "subtitle": "Exact on Jan 3, 2026",
+        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "echoes": [
+          {
+            "id": "echo.industry.industrial_revolution.18-19c",
+            "year": "18th–19th centuries",
+            "event": "Industrial Revolution",
+            "blurb": "Tech transforms economy & society."
+          },
+          {
+            "id": "echo.tech.internet_takeoff.1993",
+            "year": "1993",
+            "event": "Commercial Internet takes off",
+            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-03"
+      }
+    },
+    {
+      "date": "2025-12-30",
+      "moon": {
+        "phase": "waxing gibbous",
+        "sign": "Taurus"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Waxing Gibbous (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.any",
+        "title": "Next New Moon in 19 days — New Moon",
+        "subtitle": "Exact on Jan 18, 2026",
+        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "echoes": [
+          {
+            "id": "echo.eu.enlightenment.1600-1700s",
+            "year": "1600s–1700s",
+            "event": "The Enlightenment",
+            "blurb": "Reason, rights, new philosophies."
+          },
+          {
+            "id": "echo.renaissance.begins.1400s",
+            "year": "1400s",
+            "event": "Renaissance dawns",
+            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-18"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.any",
+        "title": "Next Full Moon in 4 days — Full Moon",
+        "subtitle": "Exact on Jan 3, 2026",
+        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "echoes": [
+          {
+            "id": "echo.industry.industrial_revolution.18-19c",
+            "year": "18th–19th centuries",
+            "event": "Industrial Revolution",
+            "blurb": "Tech transforms economy & society."
+          },
+          {
+            "id": "echo.tech.internet_takeoff.1993",
+            "year": "1993",
+            "event": "Commercial Internet takes off",
+            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-03"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.any",
+        "title": "Next Full Moon in 4 days — Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
         "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
         "echoes": [
