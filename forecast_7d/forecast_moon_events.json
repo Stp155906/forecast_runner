@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2025-12-24T05:17:34Z",
+  "generated_utc": "2025-12-25T05:17:14Z",
   "window": {
-    "start": "2025-12-24",
+    "start": "2025-12-25",
     "days": 7
   },
   "meta": {
@@ -9,163 +9,79 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-01-18",
-      "days_out": 25,
-      "sign": "",
-      "title": "New Moon → Jan 18, 2026",
-      "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+      "days_out": 24,
+      "sign": "Capricorn",
+      "title": "Capricorn New Moon → Jan 18, 2026",
+      "future_theme": "Set structural goals; start accountability frameworks that can scale.",
       "echoes": [
         {
-          "id": "echo.eu.enlightenment.1600-1700s",
-          "year": "1600s–1700s",
-          "event": "The Enlightenment",
-          "blurb": "Reason, rights, new philosophies."
+          "id": "echo.cold_war.birth.1947",
+          "year": "1947",
+          "event": "Cold War consolidation",
+          "blurb": "Blocs harden; security and ideology define a new order."
         },
         {
-          "id": "echo.renaissance.begins.1400s",
-          "year": "1400s",
-          "event": "Renaissance dawns",
-          "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+          "id": "echo.dotcom.bubble.collapse.2000",
+          "year": "2000",
+          "event": "Dot-com bubble peaks and collapses",
+          "blurb": "Speculative excess gives way to platform consolidation and regulation."
         }
       ],
-      "rule_id": "rule.lunation.new.any",
+      "rule_id": "rule.lunation.new.capricorn",
       "estimated": false
     },
     "next_full_moon": {
       "phase": "full",
       "kind": "full",
       "date": "2026-01-03",
-      "days_out": 10,
-      "sign": "",
-      "title": "Full Moon → Jan 3, 2026",
-      "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+      "days_out": 9,
+      "sign": "Cancer",
+      "title": "Cancer Full Moon → Jan 3, 2026",
+      "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
       "echoes": [
         {
-          "id": "echo.industry.industrial_revolution.18-19c",
-          "year": "18th–19th centuries",
-          "event": "Industrial Revolution",
-          "blurb": "Tech transforms economy & society."
+          "id": "echo.us.new_deal.1933",
+          "year": "1933–1939",
+          "event": "The New Deal",
+          "blurb": "Social safety nets and public works reshape the economy."
         },
         {
-          "id": "echo.tech.internet_takeoff.1993",
-          "year": "1993",
-          "event": "Commercial Internet takes off",
-          "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+          "id": "echo.public_health.sanitation.1800s",
+          "year": "1800s",
+          "event": "Modern sanitation movement",
+          "blurb": "Public health infrastructure, clean water, and urban reforms."
         }
       ],
-      "rule_id": "rule.lunation.full.any",
+      "rule_id": "rule.lunation.full.cancer",
       "estimated": false
     },
     "next_lunation": {
       "phase": "full",
       "kind": "full",
       "date": "2026-01-03",
-      "days_out": 10,
-      "sign": "",
-      "title": "Full Moon → Jan 3, 2026",
-      "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+      "days_out": 9,
+      "sign": "Cancer",
+      "title": "Cancer Full Moon → Jan 3, 2026",
+      "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
       "echoes": [
         {
-          "id": "echo.industry.industrial_revolution.18-19c",
-          "year": "18th–19th centuries",
-          "event": "Industrial Revolution",
-          "blurb": "Tech transforms economy & society."
+          "id": "echo.us.new_deal.1933",
+          "year": "1933–1939",
+          "event": "The New Deal",
+          "blurb": "Social safety nets and public works reshape the economy."
         },
         {
-          "id": "echo.tech.internet_takeoff.1993",
-          "year": "1993",
-          "event": "Commercial Internet takes off",
-          "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+          "id": "echo.public_health.sanitation.1800s",
+          "year": "1800s",
+          "event": "Modern sanitation movement",
+          "blurb": "Public health infrastructure, clean water, and urban reforms."
         }
       ],
-      "rule_id": "rule.lunation.full.any",
+      "rule_id": "rule.lunation.full.cancer",
       "estimated": false
     }
   },
   "days": [
-    {
-      "date": "2025-12-24",
-      "moon": {
-        "phase": "waxing crescent",
-        "sign": "Aquarius"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Waxing Crescent (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.any",
-        "title": "Next New Moon in 25 days — New Moon",
-        "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
-        "echoes": [
-          {
-            "id": "echo.eu.enlightenment.1600-1700s",
-            "year": "1600s–1700s",
-            "event": "The Enlightenment",
-            "blurb": "Reason, rights, new philosophies."
-          },
-          {
-            "id": "echo.renaissance.begins.1400s",
-            "year": "1400s",
-            "event": "Renaissance dawns",
-            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-18"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 10 days — Full Moon",
-        "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
-        "echoes": [
-          {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
-          },
-          {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-03"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 10 days — Full Moon",
-        "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
-        "echoes": [
-          {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
-          },
-          {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-01-03"
-      }
-    },
     {
       "date": "2025-12-25",
       "moon": {
@@ -182,22 +98,22 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.any",
-        "title": "Next New Moon in 24 days — New Moon",
+        "rule_id": "rule.lunation.new.capricorn",
+        "title": "Next New Moon in 24 days — Capricorn New Moon",
         "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "future_theme": "Set structural goals; start accountability frameworks that can scale.",
         "echoes": [
           {
-            "id": "echo.eu.enlightenment.1600-1700s",
-            "year": "1600s–1700s",
-            "event": "The Enlightenment",
-            "blurb": "Reason, rights, new philosophies."
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
           },
           {
-            "id": "echo.renaissance.begins.1400s",
-            "year": "1400s",
-            "event": "Renaissance dawns",
-            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
           }
         ],
         "estimated": false,
@@ -205,22 +121,22 @@
       },
       "countdown_full_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 9 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 9 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -228,22 +144,22 @@
       },
       "countdown_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 9 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 9 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -266,22 +182,22 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.any",
-        "title": "Next New Moon in 23 days — New Moon",
+        "rule_id": "rule.lunation.new.capricorn",
+        "title": "Next New Moon in 23 days — Capricorn New Moon",
         "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "future_theme": "Set structural goals; start accountability frameworks that can scale.",
         "echoes": [
           {
-            "id": "echo.eu.enlightenment.1600-1700s",
-            "year": "1600s–1700s",
-            "event": "The Enlightenment",
-            "blurb": "Reason, rights, new philosophies."
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
           },
           {
-            "id": "echo.renaissance.begins.1400s",
-            "year": "1400s",
-            "event": "Renaissance dawns",
-            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
           }
         ],
         "estimated": false,
@@ -289,22 +205,22 @@
       },
       "countdown_full_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 8 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 8 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -312,22 +228,22 @@
       },
       "countdown_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 8 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 8 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -350,22 +266,22 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.any",
-        "title": "Next New Moon in 22 days — New Moon",
+        "rule_id": "rule.lunation.new.capricorn",
+        "title": "Next New Moon in 22 days — Capricorn New Moon",
         "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "future_theme": "Set structural goals; start accountability frameworks that can scale.",
         "echoes": [
           {
-            "id": "echo.eu.enlightenment.1600-1700s",
-            "year": "1600s–1700s",
-            "event": "The Enlightenment",
-            "blurb": "Reason, rights, new philosophies."
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
           },
           {
-            "id": "echo.renaissance.begins.1400s",
-            "year": "1400s",
-            "event": "Renaissance dawns",
-            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
           }
         ],
         "estimated": false,
@@ -373,22 +289,22 @@
       },
       "countdown_full_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 7 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 7 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -396,22 +312,22 @@
       },
       "countdown_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 7 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 7 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -434,22 +350,22 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.any",
-        "title": "Next New Moon in 21 days — New Moon",
+        "rule_id": "rule.lunation.new.capricorn",
+        "title": "Next New Moon in 21 days — Capricorn New Moon",
         "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "future_theme": "Set structural goals; start accountability frameworks that can scale.",
         "echoes": [
           {
-            "id": "echo.eu.enlightenment.1600-1700s",
-            "year": "1600s–1700s",
-            "event": "The Enlightenment",
-            "blurb": "Reason, rights, new philosophies."
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
           },
           {
-            "id": "echo.renaissance.begins.1400s",
-            "year": "1400s",
-            "event": "Renaissance dawns",
-            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
           }
         ],
         "estimated": false,
@@ -457,22 +373,22 @@
       },
       "countdown_full_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 6 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 6 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -480,22 +396,22 @@
       },
       "countdown_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 6 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 6 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -518,22 +434,22 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.any",
-        "title": "Next New Moon in 20 days — New Moon",
+        "rule_id": "rule.lunation.new.capricorn",
+        "title": "Next New Moon in 20 days — Capricorn New Moon",
         "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "future_theme": "Set structural goals; start accountability frameworks that can scale.",
         "echoes": [
           {
-            "id": "echo.eu.enlightenment.1600-1700s",
-            "year": "1600s–1700s",
-            "event": "The Enlightenment",
-            "blurb": "Reason, rights, new philosophies."
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
           },
           {
-            "id": "echo.renaissance.begins.1400s",
-            "year": "1400s",
-            "event": "Renaissance dawns",
-            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
           }
         ],
         "estimated": false,
@@ -541,22 +457,22 @@
       },
       "countdown_full_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 5 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 5 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -564,22 +480,22 @@
       },
       "countdown_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 5 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 5 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -602,22 +518,22 @@
       },
       "countdown_new_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.new.any",
-        "title": "Next New Moon in 19 days — New Moon",
+        "rule_id": "rule.lunation.new.capricorn",
+        "title": "Next New Moon in 19 days — Capricorn New Moon",
         "subtitle": "Exact on Jan 18, 2026",
-        "future_theme": "Reset and seed time. Clarify intention; start small, iterate, and grow.",
+        "future_theme": "Set structural goals; start accountability frameworks that can scale.",
         "echoes": [
           {
-            "id": "echo.eu.enlightenment.1600-1700s",
-            "year": "1600s–1700s",
-            "event": "The Enlightenment",
-            "blurb": "Reason, rights, new philosophies."
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
           },
           {
-            "id": "echo.renaissance.begins.1400s",
-            "year": "1400s",
-            "event": "Renaissance dawns",
-            "blurb": "Humanist arts and science revive across Europe; new civic ideals."
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
           }
         ],
         "estimated": false,
@@ -625,22 +541,22 @@
       },
       "countdown_full_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 4 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 4 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
@@ -648,22 +564,106 @@
       },
       "countdown_card": {
         "state": "countdown",
-        "rule_id": "rule.lunation.full.any",
-        "title": "Next Full Moon in 4 days — Full Moon",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 4 days — Cancer Full Moon",
         "subtitle": "Exact on Jan 3, 2026",
-        "future_theme": "Culminations and revelations. What began at the last New Moon comes to light.",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
         "echoes": [
           {
-            "id": "echo.industry.industrial_revolution.18-19c",
-            "year": "18th–19th centuries",
-            "event": "Industrial Revolution",
-            "blurb": "Tech transforms economy & society."
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
           },
           {
-            "id": "echo.tech.internet_takeoff.1993",
-            "year": "1993",
-            "event": "Commercial Internet takes off",
-            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-03"
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "moon": {
+        "phase": "waxing gibbous",
+        "sign": "Taurus"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Waxing Gibbous (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.capricorn",
+        "title": "Next New Moon in 18 days — Capricorn New Moon",
+        "subtitle": "Exact on Jan 18, 2026",
+        "future_theme": "Set structural goals; start accountability frameworks that can scale.",
+        "echoes": [
+          {
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
+          },
+          {
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-18"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 3 days — Cancer Full Moon",
+        "subtitle": "Exact on Jan 3, 2026",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
+        "echoes": [
+          {
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
+          },
+          {
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-01-03"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.cancer",
+        "title": "Next Full Moon in 3 days — Cancer Full Moon",
+        "subtitle": "Exact on Jan 3, 2026",
+        "future_theme": "Home, food, and care systems come into focus. Nurture what truly supports you.",
+        "echoes": [
+          {
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
+          },
+          {
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
           }
         ],
         "estimated": false,
