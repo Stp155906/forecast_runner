@@ -1,61 +1,10 @@
 {
-  "generated_utc": "2025-12-25T05:17:14Z",
+  "generated_utc": "2025-12-26T05:15:09Z",
   "window": {
-    "start": "2025-12-25",
+    "start": "2025-12-26",
     "days": 7
   },
   "days": [
-    {
-      "date": "2025-12-25",
-      "aspects": [
-        {
-          "body1": "jupiter",
-          "body2": "saturn",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 116.447,
-          "orb_deg": 3.553,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 111.88,
-              "sign": "Cancer",
-              "speed_deg_per_day": -0.123
-            },
-            "saturn": {
-              "lon_deg": 355.43,
-              "sign": "Pisces",
-              "speed_deg_per_day": 0.048
-            }
-          },
-          "importance_score": 0.428,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.jupiter.trine.saturn.any",
-            "title": "Jupiter △ Saturn — Structure Meets Growth",
-            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 3.6° (separating)",
-            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
-            "echoes": [
-              {
-                "id": "echo.eu.enlightenment.1600-1700s",
-                "year": "1600s–1700s",
-                "event": "The Enlightenment",
-                "blurb": "Reason, rights, new philosophies."
-              },
-              {
-                "id": "echo.industry.industrial_revolution.18-19c",
-                "year": "18th–19th centuries",
-                "event": "Industrial Revolution",
-                "blurb": "Tech transforms economy & society."
-              }
-            ]
-          }
-        }
-      ]
-    },
     {
       "date": "2025-12-26",
       "aspects": [
@@ -356,6 +305,103 @@
                 "year": "18th–19th centuries",
                 "event": "Industrial Revolution",
                 "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-01",
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 115.191,
+          "orb_deg": 4.809,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 110.99,
+              "sign": "Cancer",
+              "speed_deg_per_day": -0.132
+            },
+            "saturn": {
+              "lon_deg": 355.8,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.06
+            }
+          },
+          "importance_score": 0.208,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Cancer △ Saturn in Pisces — orb 4.8° (separating)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        },
+        {
+          "body1": "mercury",
+          "body2": "neptune",
+          "aspect_name": "square",
+          "family": "4th-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 90.0,
+          "angle_measured_deg": 90.855,
+          "orb_deg": 0.855,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "mercury": {
+              "lon_deg": 268.29,
+              "sign": "Sagittarius",
+              "speed_deg_per_day": 1.526
+            },
+            "neptune": {
+              "lon_deg": 359.14,
+              "sign": "Pisces",
+              "speed_deg_per_day": 0.013
+            }
+          },
+          "importance_score": 0.836,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.mercury.square.neptune.any",
+            "title": "Mercury □ Neptune — Signals vs. Noise",
+            "subtitle": "Mercury in Sagittarius □ Neptune in Pisces — orb 0.9° (applying)",
+            "future_theme": "Hype, rumors, and dream logic. Verify sources; protect attention and boundaries.",
+            "echoes": [
+              {
+                "id": "echo.tech.printing_press.1440s",
+                "year": "1440s",
+                "event": "Gutenberg’s Printing Press",
+                "blurb": "Knowledge revolution."
+              },
+              {
+                "id": "echo.tech.internet_takeoff.1993",
+                "year": "1993",
+                "event": "Commercial Internet takes off",
+                "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
               }
             ]
           }
