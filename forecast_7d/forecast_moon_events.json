@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-04-10T06:55:34Z",
+  "generated_utc": "2026-04-11T06:04:47Z",
   "window": {
-    "start": "2026-04-10",
+    "start": "2026-04-11",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-04-17",
-      "days_out": 7,
+      "days_out": 6,
       "sign": "Aries",
       "title": "Aries New Moon → Apr 17, 2026",
       "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-05-01",
-      "days_out": 21,
+      "days_out": 20,
       "sign": "Scorpio",
       "title": "Scorpio Full Moon → May 1, 2026",
       "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
@@ -59,7 +59,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-04-17",
-      "days_out": 7,
+      "days_out": 6,
       "sign": "Aries",
       "title": "Aries New Moon → Apr 17, 2026",
       "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-04-10",
-      "moon": {
-        "phase": "last quarter",
-        "sign": "Capricorn"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Last Quarter (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.aries",
-        "title": "Next New Moon in 7 days — Aries New Moon",
-        "subtitle": "Exact on Apr 17, 2026",
-        "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
-        "echoes": [
-          {
-            "id": "echo.us.american_revolution.1775-1783",
-            "year": "1775–1783",
-            "event": "American Revolution",
-            "blurb": "Independence of the U.S."
-          },
-          {
-            "id": "echo.fr.french_revolution.1789-1799",
-            "year": "1789–1799",
-            "event": "French Revolution",
-            "blurb": "Monarchy collapses; democracy stirs."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-04-17"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.scorpio",
-        "title": "Next Full Moon in 21 days — Scorpio Full Moon",
-        "subtitle": "Exact on May 1, 2026",
-        "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
-        "echoes": [
-          {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
-          },
-          {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-05-01"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.aries",
-        "title": "Next New Moon in 7 days — Aries New Moon",
-        "subtitle": "Exact on Apr 17, 2026",
-        "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
-        "echoes": [
-          {
-            "id": "echo.us.american_revolution.1775-1783",
-            "year": "1775–1783",
-            "event": "American Revolution",
-            "blurb": "Independence of the U.S."
-          },
-          {
-            "id": "echo.fr.french_revolution.1789-1799",
-            "year": "1789–1799",
-            "event": "French Revolution",
-            "blurb": "Monarchy collapses; democracy stirs."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-04-17"
-      }
-    },
     {
       "date": "2026-04-11",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.new.aries",
         "title": "Next New Moon in 1 days — Aries New Moon",
+        "subtitle": "Exact on Apr 17, 2026",
+        "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
+        "echoes": [
+          {
+            "id": "echo.us.american_revolution.1775-1783",
+            "year": "1775–1783",
+            "event": "American Revolution",
+            "blurb": "Independence of the U.S."
+          },
+          {
+            "id": "echo.fr.french_revolution.1789-1799",
+            "year": "1789–1799",
+            "event": "French Revolution",
+            "blurb": "Monarchy collapses; democracy stirs."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-04-17"
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "moon": {
+        "phase": "new",
+        "sign": "Aries"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "New (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.aries",
+        "title": "Next New Moon Today — Aries New Moon",
+        "subtitle": "Exact on Apr 17, 2026",
+        "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
+        "echoes": [
+          {
+            "id": "echo.us.american_revolution.1775-1783",
+            "year": "1775–1783",
+            "event": "American Revolution",
+            "blurb": "Independence of the U.S."
+          },
+          {
+            "id": "echo.fr.french_revolution.1789-1799",
+            "year": "1789–1799",
+            "event": "French Revolution",
+            "blurb": "Monarchy collapses; democracy stirs."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-04-17"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.scorpio",
+        "title": "Next Full Moon in 14 days — Scorpio Full Moon",
+        "subtitle": "Exact on May 1, 2026",
+        "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
+        "echoes": [
+          {
+            "id": "echo.finance.gfc.2008",
+            "year": "2008",
+            "event": "Global Financial Crisis",
+            "blurb": "Severe worldwide downturn."
+          },
+          {
+            "id": "echo.za.mandela_president.1994",
+            "year": "1994",
+            "event": "Nelson Mandela Elected President",
+            "blurb": "End of apartheid."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-05-01"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.aries",
+        "title": "Next New Moon Today — Aries New Moon",
         "subtitle": "Exact on Apr 17, 2026",
         "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
         "echoes": [
