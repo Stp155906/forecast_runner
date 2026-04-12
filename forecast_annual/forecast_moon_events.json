@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-04-11T06:04:47Z",
+  "generated_utc": "2026-04-12T06:25:13Z",
   "window": {
-    "start": "2026-04-11",
+    "start": "2026-04-12",
     "days": 366
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-04-17",
-      "days_out": 6,
+      "days_out": 5,
       "sign": "Aries",
       "title": "Aries New Moon → Apr 17, 2026",
       "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-05-01",
-      "days_out": 20,
+      "days_out": 19,
       "sign": "Scorpio",
       "title": "Scorpio Full Moon → May 1, 2026",
       "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
@@ -59,7 +59,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-04-17",
-      "days_out": 6,
+      "days_out": 5,
       "sign": "Aries",
       "title": "Aries New Moon → Apr 17, 2026",
       "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-04-11",
-      "moon": {
-        "phase": "last quarter",
-        "sign": "Aquarius"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Last Quarter (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.aries",
-        "title": "Next New Moon in 6 days — Aries New Moon",
-        "subtitle": "Exact on Apr 17, 2026",
-        "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
-        "echoes": [
-          {
-            "id": "echo.us.american_revolution.1775-1783",
-            "year": "1775–1783",
-            "event": "American Revolution",
-            "blurb": "Independence of the U.S."
-          },
-          {
-            "id": "echo.fr.french_revolution.1789-1799",
-            "year": "1789–1799",
-            "event": "French Revolution",
-            "blurb": "Monarchy collapses; democracy stirs."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-04-17"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.scorpio",
-        "title": "Next Full Moon in 20 days — Scorpio Full Moon",
-        "subtitle": "Exact on May 1, 2026",
-        "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
-        "echoes": [
-          {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
-          },
-          {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-05-01"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.aries",
-        "title": "Next New Moon in 6 days — Aries New Moon",
-        "subtitle": "Exact on Apr 17, 2026",
-        "future_theme": "Initiation energy: courage, decisive starts, and bold leadership. Begin what needs momentum.",
-        "echoes": [
-          {
-            "id": "echo.us.american_revolution.1775-1783",
-            "year": "1775–1783",
-            "event": "American Revolution",
-            "blurb": "Independence of the U.S."
-          },
-          {
-            "id": "echo.fr.french_revolution.1789-1799",
-            "year": "1789–1799",
-            "event": "French Revolution",
-            "blurb": "Monarchy collapses; democracy stirs."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-04-17"
-      }
-    },
     {
       "date": "2026-04-12",
       "moon": {
@@ -30806,6 +30722,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.libra",
         "title": "Next Full Moon in 9 days — Libra Full Moon",
+        "subtitle": "Exact on Apr 20, 2027",
+        "future_theme": "Agreements mature; justice themes peak. Re-balance rights and duties.",
+        "echoes": [
+          {
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
+          },
+          {
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-04-20"
+      }
+    },
+    {
+      "date": "2027-04-12",
+      "moon": {
+        "phase": "waxing crescent",
+        "sign": "Gemini"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Waxing Crescent (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.taurus",
+        "title": "Next New Moon in 24 days — Taurus New Moon",
+        "subtitle": "Exact on May 6, 2027",
+        "future_theme": "Plant durable value: finances, food systems, land, and material security.",
+        "echoes": [
+          {
+            "id": "echo.us.gold_rush.1848-1855",
+            "year": "1848–1855",
+            "event": "California Gold Rush",
+            "blurb": "Mass migration; boomtowns."
+          },
+          {
+            "id": "echo.finance.great_depression.1929",
+            "year": "1929",
+            "event": "The Great Depression",
+            "blurb": "Worldwide economic collapse."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-05-06"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.libra",
+        "title": "Next Full Moon in 8 days — Libra Full Moon",
+        "subtitle": "Exact on Apr 20, 2027",
+        "future_theme": "Agreements mature; justice themes peak. Re-balance rights and duties.",
+        "echoes": [
+          {
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
+          },
+          {
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-04-20"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.libra",
+        "title": "Next Full Moon in 8 days — Libra Full Moon",
         "subtitle": "Exact on Apr 20, 2027",
         "future_theme": "Agreements mature; justice themes peak. Re-balance rights and duties.",
         "echoes": [
