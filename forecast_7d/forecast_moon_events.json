@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-05-01T07:29:26Z",
+  "generated_utc": "2026-05-02T07:03:37Z",
   "window": {
-    "start": "2026-05-01",
+    "start": "2026-05-02",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-05-16",
-      "days_out": 15,
+      "days_out": 14,
       "sign": "Taurus",
       "title": "Taurus New Moon → May 16, 2026",
       "future_theme": "Plant durable value: finances, food systems, land, and material security.",
@@ -33,139 +33,55 @@
     "next_full_moon": {
       "phase": "full",
       "kind": "full",
-      "date": "2026-05-01",
-      "days_out": 0,
-      "sign": "Scorpio",
-      "title": "Scorpio Full Moon → May 1, 2026",
-      "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
+      "date": "2026-05-31",
+      "days_out": 29,
+      "sign": "Sagittarius",
+      "title": "Sagittarius Full Moon → May 31, 2026",
+      "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
       "echoes": [
         {
-          "id": "echo.finance.gfc.2008",
-          "year": "2008",
-          "event": "Global Financial Crisis",
-          "blurb": "Severe worldwide downturn."
+          "id": "echo.age_of_exploration.1500s",
+          "year": "1500s",
+          "event": "Age of Exploration",
+          "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
         },
         {
-          "id": "echo.za.mandela_president.1994",
-          "year": "1994",
-          "event": "Nelson Mandela Elected President",
-          "blurb": "End of apartheid."
+          "id": "echo.space.moon_landing.1969",
+          "year": "1969",
+          "event": "Moon Landing",
+          "blurb": "Historic space achievement."
         }
       ],
-      "rule_id": "rule.lunation.full.scorpio",
+      "rule_id": "rule.lunation.full.sagittarius",
       "estimated": false
     },
     "next_lunation": {
-      "phase": "full",
-      "kind": "full",
-      "date": "2026-05-01",
-      "days_out": 0,
-      "sign": "Scorpio",
-      "title": "Scorpio Full Moon → May 1, 2026",
-      "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
+      "phase": "new",
+      "kind": "new",
+      "date": "2026-05-16",
+      "days_out": 14,
+      "sign": "Taurus",
+      "title": "Taurus New Moon → May 16, 2026",
+      "future_theme": "Plant durable value: finances, food systems, land, and material security.",
       "echoes": [
         {
-          "id": "echo.finance.gfc.2008",
-          "year": "2008",
-          "event": "Global Financial Crisis",
-          "blurb": "Severe worldwide downturn."
+          "id": "echo.us.gold_rush.1848-1855",
+          "year": "1848–1855",
+          "event": "California Gold Rush",
+          "blurb": "Mass migration; boomtowns."
         },
         {
-          "id": "echo.za.mandela_president.1994",
-          "year": "1994",
-          "event": "Nelson Mandela Elected President",
-          "blurb": "End of apartheid."
+          "id": "echo.finance.great_depression.1929",
+          "year": "1929",
+          "event": "The Great Depression",
+          "blurb": "Worldwide economic collapse."
         }
       ],
-      "rule_id": "rule.lunation.full.scorpio",
+      "rule_id": "rule.lunation.new.taurus",
       "estimated": false
     }
   },
   "days": [
-    {
-      "date": "2026-05-01",
-      "moon": {
-        "phase": "full",
-        "sign": "Scorpio"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Full (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.taurus",
-        "title": "Next New Moon in 15 days — Taurus New Moon",
-        "subtitle": "Exact on May 16, 2026",
-        "future_theme": "Plant durable value: finances, food systems, land, and material security.",
-        "echoes": [
-          {
-            "id": "echo.us.gold_rush.1848-1855",
-            "year": "1848–1855",
-            "event": "California Gold Rush",
-            "blurb": "Mass migration; boomtowns."
-          },
-          {
-            "id": "echo.finance.great_depression.1929",
-            "year": "1929",
-            "event": "The Great Depression",
-            "blurb": "Worldwide economic collapse."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-05-16"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.scorpio",
-        "title": "Next Full Moon Today — Scorpio Full Moon",
-        "subtitle": "Exact on May 1, 2026",
-        "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
-        "echoes": [
-          {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
-          },
-          {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-05-01"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.scorpio",
-        "title": "Next Full Moon Today — Scorpio Full Moon",
-        "subtitle": "Exact on May 1, 2026",
-        "future_theme": "Debt, power, and regeneration stories climax. Release what’s toxic; recommit to truth.",
-        "echoes": [
-          {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
-          },
-          {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-05-01"
-      }
-    },
     {
       "date": "2026-05-02",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.new.taurus",
         "title": "Next New Moon in 9 days — Taurus New Moon",
+        "subtitle": "Exact on May 16, 2026",
+        "future_theme": "Plant durable value: finances, food systems, land, and material security.",
+        "echoes": [
+          {
+            "id": "echo.us.gold_rush.1848-1855",
+            "year": "1848–1855",
+            "event": "California Gold Rush",
+            "blurb": "Mass migration; boomtowns."
+          },
+          {
+            "id": "echo.finance.great_depression.1929",
+            "year": "1929",
+            "event": "The Great Depression",
+            "blurb": "Worldwide economic collapse."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-05-16"
+      }
+    },
+    {
+      "date": "2026-05-08",
+      "moon": {
+        "phase": "last quarter",
+        "sign": "Capricorn"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Last Quarter (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.taurus",
+        "title": "Next New Moon in 8 days — Taurus New Moon",
+        "subtitle": "Exact on May 16, 2026",
+        "future_theme": "Plant durable value: finances, food systems, land, and material security.",
+        "echoes": [
+          {
+            "id": "echo.us.gold_rush.1848-1855",
+            "year": "1848–1855",
+            "event": "California Gold Rush",
+            "blurb": "Mass migration; boomtowns."
+          },
+          {
+            "id": "echo.finance.great_depression.1929",
+            "year": "1929",
+            "event": "The Great Depression",
+            "blurb": "Worldwide economic collapse."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-05-16"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.sagittarius",
+        "title": "Next Full Moon in 23 days — Sagittarius Full Moon",
+        "subtitle": "Exact on May 31, 2026",
+        "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
+        "echoes": [
+          {
+            "id": "echo.age_of_exploration.1500s",
+            "year": "1500s",
+            "event": "Age of Exploration",
+            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
+          },
+          {
+            "id": "echo.space.moon_landing.1969",
+            "year": "1969",
+            "event": "Moon Landing",
+            "blurb": "Historic space achievement."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-05-31"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.taurus",
+        "title": "Next New Moon in 8 days — Taurus New Moon",
         "subtitle": "Exact on May 16, 2026",
         "future_theme": "Plant durable value: finances, food systems, land, and material security.",
         "echoes": [
