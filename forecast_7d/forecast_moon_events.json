@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-05-12T07:48:12Z",
+  "generated_utc": "2026-05-13T07:55:00Z",
   "window": {
-    "start": "2026-05-12",
+    "start": "2026-05-13",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-05-16",
-      "days_out": 4,
+      "days_out": 3,
       "sign": "Taurus",
       "title": "Taurus New Moon → May 16, 2026",
       "future_theme": "Plant durable value: finances, food systems, land, and material security.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-05-31",
-      "days_out": 19,
+      "days_out": 18,
       "sign": "Sagittarius",
       "title": "Sagittarius Full Moon → May 31, 2026",
       "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
@@ -59,7 +59,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-05-16",
-      "days_out": 4,
+      "days_out": 3,
       "sign": "Taurus",
       "title": "Taurus New Moon → May 16, 2026",
       "future_theme": "Plant durable value: finances, food systems, land, and material security.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-05-12",
-      "moon": {
-        "phase": "waning crescent",
-        "sign": "Pisces"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Waning Crescent (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.taurus",
-        "title": "Next New Moon in 4 days — Taurus New Moon",
-        "subtitle": "Exact on May 16, 2026",
-        "future_theme": "Plant durable value: finances, food systems, land, and material security.",
-        "echoes": [
-          {
-            "id": "echo.us.gold_rush.1848-1855",
-            "year": "1848–1855",
-            "event": "California Gold Rush",
-            "blurb": "Mass migration; boomtowns."
-          },
-          {
-            "id": "echo.finance.great_depression.1929",
-            "year": "1929",
-            "event": "The Great Depression",
-            "blurb": "Worldwide economic collapse."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-05-16"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.sagittarius",
-        "title": "Next Full Moon in 19 days — Sagittarius Full Moon",
-        "subtitle": "Exact on May 31, 2026",
-        "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
-        "echoes": [
-          {
-            "id": "echo.age_of_exploration.1500s",
-            "year": "1500s",
-            "event": "Age of Exploration",
-            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
-          },
-          {
-            "id": "echo.space.moon_landing.1969",
-            "year": "1969",
-            "event": "Moon Landing",
-            "blurb": "Historic space achievement."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-05-31"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.taurus",
-        "title": "Next New Moon in 4 days — Taurus New Moon",
-        "subtitle": "Exact on May 16, 2026",
-        "future_theme": "Plant durable value: finances, food systems, land, and material security.",
-        "echoes": [
-          {
-            "id": "echo.us.gold_rush.1848-1855",
-            "year": "1848–1855",
-            "event": "California Gold Rush",
-            "blurb": "Mass migration; boomtowns."
-          },
-          {
-            "id": "echo.finance.great_depression.1929",
-            "year": "1929",
-            "event": "The Great Depression",
-            "blurb": "Worldwide economic collapse."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-05-16"
-      }
-    },
     {
       "date": "2026-05-13",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.sagittarius",
         "title": "Next Full Moon in 13 days — Sagittarius Full Moon",
+        "subtitle": "Exact on May 31, 2026",
+        "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
+        "echoes": [
+          {
+            "id": "echo.age_of_exploration.1500s",
+            "year": "1500s",
+            "event": "Age of Exploration",
+            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
+          },
+          {
+            "id": "echo.space.moon_landing.1969",
+            "year": "1969",
+            "event": "Moon Landing",
+            "blurb": "Historic space achievement."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-05-31"
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "moon": {
+        "phase": "waxing crescent",
+        "sign": "Gemini"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Waxing Crescent (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.gemini",
+        "title": "Next New Moon in 27 days — Gemini New Moon",
+        "subtitle": "Exact on Jun 15, 2026",
+        "future_theme": "Announce, publish, connect. Start a message with room to iterate.",
+        "echoes": [
+          {
+            "id": "echo.tech.printing_press.1440s",
+            "year": "1440s",
+            "event": "Gutenberg’s Printing Press",
+            "blurb": "Knowledge revolution."
+          },
+          {
+            "id": "echo.tech.internet_takeoff.1993",
+            "year": "1993",
+            "event": "Commercial Internet takes off",
+            "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-06-15"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.sagittarius",
+        "title": "Next Full Moon in 12 days — Sagittarius Full Moon",
+        "subtitle": "Exact on May 31, 2026",
+        "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
+        "echoes": [
+          {
+            "id": "echo.age_of_exploration.1500s",
+            "year": "1500s",
+            "event": "Age of Exploration",
+            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
+          },
+          {
+            "id": "echo.space.moon_landing.1969",
+            "year": "1969",
+            "event": "Moon Landing",
+            "blurb": "Historic space achievement."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-05-31"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.sagittarius",
+        "title": "Next Full Moon in 12 days — Sagittarius Full Moon",
         "subtitle": "Exact on May 31, 2026",
         "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
         "echoes": [
