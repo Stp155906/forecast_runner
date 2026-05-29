@@ -1,14 +1,10 @@
 {
-  "generated_utc": "2026-05-28T08:49:36Z",
+  "generated_utc": "2026-05-29T08:47:28Z",
   "window": {
-    "start": "2026-05-28",
+    "start": "2026-05-29",
     "days": 366
   },
   "days": [
-    {
-      "date": "2026-05-28",
-      "aspects": []
-    },
     {
       "date": "2026-05-29",
       "aspects": []
@@ -35,7 +31,54 @@
     },
     {
       "date": "2026-06-04",
-      "aspects": []
+      "aspects": [
+        {
+          "body1": "mercury",
+          "body2": "neptune",
+          "aspect_name": "square",
+          "family": "4th-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 90.0,
+          "angle_measured_deg": 89.979,
+          "orb_deg": 0.021,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "mercury": {
+              "lon_deg": 93.72,
+              "sign": "Cancer",
+              "speed_deg_per_day": 1.568
+            },
+            "neptune": {
+              "lon_deg": 3.74,
+              "sign": "Aries",
+              "speed_deg_per_day": 0.017
+            }
+          },
+          "importance_score": 0.972,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.mercury.square.neptune.any",
+            "title": "Mercury □ Neptune — Signals vs. Noise",
+            "subtitle": "Mercury in Cancer □ Neptune in Aries — orb 0.0° (separating)",
+            "future_theme": "Hype, rumors, and dream logic. Verify sources; protect attention and boundaries.",
+            "echoes": [
+              {
+                "id": "echo.tech.printing_press.1440s",
+                "year": "1440s",
+                "event": "Gutenberg’s Printing Press",
+                "blurb": "Knowledge revolution."
+              },
+              {
+                "id": "echo.tech.internet_takeoff.1993",
+                "year": "1993",
+                "event": "Commercial Internet takes off",
+                "blurb": "Web and global networks scale into daily life; Uranus–Neptune era."
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "date": "2026-06-05",
@@ -1467,6 +1510,10 @@
     },
     {
       "date": "2027-05-28",
+      "aspects": []
+    },
+    {
+      "date": "2027-05-29",
       "aspects": []
     }
   ]
