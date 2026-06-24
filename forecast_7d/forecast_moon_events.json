@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-06-23T08:32:46Z",
+  "generated_utc": "2026-06-24T08:27:31Z",
   "window": {
-    "start": "2026-06-23",
+    "start": "2026-06-24",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-07-14",
-      "days_out": 21,
+      "days_out": 20,
       "sign": "Cancer",
       "title": "Cancer New Moon → Jul 14, 2026",
       "future_theme": "Nurture new roots: home, family, food, and care projects begin.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-06-29",
-      "days_out": 6,
+      "days_out": 5,
       "sign": "Sagittarius",
       "title": "Sagittarius Full Moon → Jun 29, 2026",
       "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
@@ -59,7 +59,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-06-29",
-      "days_out": 6,
+      "days_out": 5,
       "sign": "Sagittarius",
       "title": "Sagittarius Full Moon → Jun 29, 2026",
       "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-06-23",
-      "moon": {
-        "phase": "first quarter",
-        "sign": "Libra"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "First Quarter (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.cancer",
-        "title": "Next New Moon in 21 days — Cancer New Moon",
-        "subtitle": "Exact on Jul 14, 2026",
-        "future_theme": "Nurture new roots: home, family, food, and care projects begin.",
-        "echoes": [
-          {
-            "id": "echo.us.new_deal.1933",
-            "year": "1933–1939",
-            "event": "The New Deal",
-            "blurb": "Social safety nets and public works reshape the economy."
-          },
-          {
-            "id": "echo.public_health.sanitation.1800s",
-            "year": "1800s",
-            "event": "Modern sanitation movement",
-            "blurb": "Public health infrastructure, clean water, and urban reforms."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-07-14"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.sagittarius",
-        "title": "Next Full Moon in 6 days — Sagittarius Full Moon",
-        "subtitle": "Exact on Jun 29, 2026",
-        "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
-        "echoes": [
-          {
-            "id": "echo.age_of_exploration.1500s",
-            "year": "1500s",
-            "event": "Age of Exploration",
-            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
-          },
-          {
-            "id": "echo.space.moon_landing.1969",
-            "year": "1969",
-            "event": "Moon Landing",
-            "blurb": "Historic space achievement."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-06-29"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.sagittarius",
-        "title": "Next Full Moon in 6 days — Sagittarius Full Moon",
-        "subtitle": "Exact on Jun 29, 2026",
-        "future_theme": "Publishing, travel, law, and belief culminate. Big vision meets receipts.",
-        "echoes": [
-          {
-            "id": "echo.age_of_exploration.1500s",
-            "year": "1500s",
-            "event": "Age of Exploration",
-            "blurb": "Maritime expansion and empirical inquiry reshape maps, trade, and knowledge."
-          },
-          {
-            "id": "echo.space.moon_landing.1969",
-            "year": "1969",
-            "event": "Moon Landing",
-            "blurb": "Historic space achievement."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-06-29"
-      }
-    },
     {
       "date": "2026-06-24",
       "moon": {
@@ -668,6 +584,90 @@
         ],
         "estimated": false,
         "event_date": "2026-06-29"
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "moon": {
+        "phase": "full",
+        "sign": "Capricorn"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Full (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.cancer",
+        "title": "Next New Moon in 14 days — Cancer New Moon",
+        "subtitle": "Exact on Jul 14, 2026",
+        "future_theme": "Nurture new roots: home, family, food, and care projects begin.",
+        "echoes": [
+          {
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
+          },
+          {
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-07-14"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.capricorn",
+        "title": "Next Full Moon in 29 days — Capricorn Full Moon",
+        "subtitle": "Exact on Jul 29, 2026",
+        "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
+        "echoes": [
+          {
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
+          },
+          {
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-07-29"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.cancer",
+        "title": "Next New Moon in 14 days — Cancer New Moon",
+        "subtitle": "Exact on Jul 14, 2026",
+        "future_theme": "Nurture new roots: home, family, food, and care projects begin.",
+        "echoes": [
+          {
+            "id": "echo.us.new_deal.1933",
+            "year": "1933–1939",
+            "event": "The New Deal",
+            "blurb": "Social safety nets and public works reshape the economy."
+          },
+          {
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-07-14"
       }
     }
   ]
