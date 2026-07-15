@@ -1,40 +1,40 @@
 {
-  "generated_utc": "2026-07-14T07:14:26Z",
+  "generated_utc": "2026-07-15T07:19:02Z",
   "window": {
-    "start": "2026-07-14",
+    "start": "2026-07-15",
     "days": 7
   },
   "meta": {
     "next_new_moon": {
       "phase": "new",
-      "kind": "new",
-      "date": "2026-07-14",
-      "days_out": 0,
-      "sign": "Cancer",
-      "title": "Cancer New Moon → Jul 14, 2026",
-      "future_theme": "Nurture new roots: home, family, food, and care projects begin.",
+      "kind": "solar_eclipse",
+      "date": "2026-08-12",
+      "days_out": 28,
+      "sign": "Leo",
+      "title": "Leo New Moon → Aug 12, 2026",
+      "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
       "echoes": [
         {
-          "id": "echo.us.new_deal.1933",
-          "year": "1933–1939",
-          "event": "The New Deal",
-          "blurb": "Social safety nets and public works reshape the economy."
+          "id": "echo.hollywood.golden_age.1930s",
+          "year": "1930s–1950s",
+          "event": "Hollywood Golden Age",
+          "blurb": "Studio era; star power, spectacle, and mass culture."
         },
         {
-          "id": "echo.public_health.sanitation.1800s",
-          "year": "1800s",
-          "event": "Modern sanitation movement",
-          "blurb": "Public health infrastructure, clean water, and urban reforms."
+          "id": "echo.culture.woodstock.1969",
+          "year": "1969",
+          "event": "Woodstock Festival",
+          "blurb": "Counterculture apex; music as social force."
         }
       ],
-      "rule_id": "rule.lunation.new.cancer",
+      "rule_id": "rule.lunation.new.leo",
       "estimated": false
     },
     "next_full_moon": {
       "phase": "full",
       "kind": "full",
       "date": "2026-07-29",
-      "days_out": 15,
+      "days_out": 14,
       "sign": "Capricorn",
       "title": "Capricorn Full Moon → Jul 29, 2026",
       "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
@@ -56,116 +56,32 @@
       "estimated": false
     },
     "next_lunation": {
-      "phase": "new",
-      "kind": "new",
-      "date": "2026-07-14",
-      "days_out": 0,
-      "sign": "Cancer",
-      "title": "Cancer New Moon → Jul 14, 2026",
-      "future_theme": "Nurture new roots: home, family, food, and care projects begin.",
+      "phase": "full",
+      "kind": "full",
+      "date": "2026-07-29",
+      "days_out": 14,
+      "sign": "Capricorn",
+      "title": "Capricorn Full Moon → Jul 29, 2026",
+      "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
       "echoes": [
         {
-          "id": "echo.us.new_deal.1933",
-          "year": "1933–1939",
-          "event": "The New Deal",
-          "blurb": "Social safety nets and public works reshape the economy."
+          "id": "echo.cold_war.birth.1947",
+          "year": "1947",
+          "event": "Cold War consolidation",
+          "blurb": "Blocs harden; security and ideology define a new order."
         },
         {
-          "id": "echo.public_health.sanitation.1800s",
-          "year": "1800s",
-          "event": "Modern sanitation movement",
-          "blurb": "Public health infrastructure, clean water, and urban reforms."
+          "id": "echo.dotcom.bubble.collapse.2000",
+          "year": "2000",
+          "event": "Dot-com bubble peaks and collapses",
+          "blurb": "Speculative excess gives way to platform consolidation and regulation."
         }
       ],
-      "rule_id": "rule.lunation.new.cancer",
+      "rule_id": "rule.lunation.full.capricorn",
       "estimated": false
     }
   },
   "days": [
-    {
-      "date": "2026-07-14",
-      "moon": {
-        "phase": "new",
-        "sign": "Cancer"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "New (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.cancer",
-        "title": "Next New Moon Today — Cancer New Moon",
-        "subtitle": "Exact on Jul 14, 2026",
-        "future_theme": "Nurture new roots: home, family, food, and care projects begin.",
-        "echoes": [
-          {
-            "id": "echo.us.new_deal.1933",
-            "year": "1933–1939",
-            "event": "The New Deal",
-            "blurb": "Social safety nets and public works reshape the economy."
-          },
-          {
-            "id": "echo.public_health.sanitation.1800s",
-            "year": "1800s",
-            "event": "Modern sanitation movement",
-            "blurb": "Public health infrastructure, clean water, and urban reforms."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-07-14"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.capricorn",
-        "title": "Next Full Moon in 15 days — Capricorn Full Moon",
-        "subtitle": "Exact on Jul 29, 2026",
-        "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
-        "echoes": [
-          {
-            "id": "echo.cold_war.birth.1947",
-            "year": "1947",
-            "event": "Cold War consolidation",
-            "blurb": "Blocs harden; security and ideology define a new order."
-          },
-          {
-            "id": "echo.dotcom.bubble.collapse.2000",
-            "year": "2000",
-            "event": "Dot-com bubble peaks and collapses",
-            "blurb": "Speculative excess gives way to platform consolidation and regulation."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-07-29"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.cancer",
-        "title": "Next New Moon Today — Cancer New Moon",
-        "subtitle": "Exact on Jul 14, 2026",
-        "future_theme": "Nurture new roots: home, family, food, and care projects begin.",
-        "echoes": [
-          {
-            "id": "echo.us.new_deal.1933",
-            "year": "1933–1939",
-            "event": "The New Deal",
-            "blurb": "Social safety nets and public works reshape the economy."
-          },
-          {
-            "id": "echo.public_health.sanitation.1800s",
-            "year": "1800s",
-            "event": "Modern sanitation movement",
-            "blurb": "Public health infrastructure, clean water, and urban reforms."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-07-14"
-      }
-    },
     {
       "date": "2026-07-15",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.capricorn",
         "title": "Next Full Moon in 9 days — Capricorn Full Moon",
+        "subtitle": "Exact on Jul 29, 2026",
+        "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
+        "echoes": [
+          {
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
+          },
+          {
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-07-29"
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "moon": {
+        "phase": "first quarter",
+        "sign": "Libra"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "First Quarter (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.leo",
+        "title": "Next Solar Eclipse in 22 days — Leo Solar Eclipse",
+        "subtitle": "Exact on Aug 12, 2026",
+        "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
+        "echoes": [
+          {
+            "id": "echo.hollywood.golden_age.1930s",
+            "year": "1930s–1950s",
+            "event": "Hollywood Golden Age",
+            "blurb": "Studio era; star power, spectacle, and mass culture."
+          },
+          {
+            "id": "echo.culture.woodstock.1969",
+            "year": "1969",
+            "event": "Woodstock Festival",
+            "blurb": "Counterculture apex; music as social force."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-08-12"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.capricorn",
+        "title": "Next Full Moon in 8 days — Capricorn Full Moon",
+        "subtitle": "Exact on Jul 29, 2026",
+        "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
+        "echoes": [
+          {
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
+          },
+          {
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-07-29"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.capricorn",
+        "title": "Next Full Moon in 8 days — Capricorn Full Moon",
         "subtitle": "Exact on Jul 29, 2026",
         "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
         "echoes": [
