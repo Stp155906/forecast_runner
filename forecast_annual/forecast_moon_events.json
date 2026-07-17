@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-07-16T07:26:34Z",
+  "generated_utc": "2026-07-17T07:22:38Z",
   "window": {
-    "start": "2026-07-16",
+    "start": "2026-07-17",
     "days": 366
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "solar_eclipse",
       "date": "2026-08-12",
-      "days_out": 27,
+      "days_out": 26,
       "sign": "Leo",
       "title": "Leo New Moon → Aug 12, 2026",
       "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-07-29",
-      "days_out": 13,
+      "days_out": 12,
       "sign": "Capricorn",
       "title": "Capricorn Full Moon → Jul 29, 2026",
       "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
@@ -59,7 +59,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-07-29",
-      "days_out": 13,
+      "days_out": 12,
       "sign": "Capricorn",
       "title": "Capricorn Full Moon → Jul 29, 2026",
       "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-07-16",
-      "moon": {
-        "phase": "new",
-        "sign": "Leo"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "New (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.leo",
-        "title": "Next Solar Eclipse in 27 days — Leo Solar Eclipse",
-        "subtitle": "Exact on Aug 12, 2026",
-        "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
-        "echoes": [
-          {
-            "id": "echo.hollywood.golden_age.1930s",
-            "year": "1930s–1950s",
-            "event": "Hollywood Golden Age",
-            "blurb": "Studio era; star power, spectacle, and mass culture."
-          },
-          {
-            "id": "echo.culture.woodstock.1969",
-            "year": "1969",
-            "event": "Woodstock Festival",
-            "blurb": "Counterculture apex; music as social force."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-08-12"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.capricorn",
-        "title": "Next Full Moon in 13 days — Capricorn Full Moon",
-        "subtitle": "Exact on Jul 29, 2026",
-        "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
-        "echoes": [
-          {
-            "id": "echo.cold_war.birth.1947",
-            "year": "1947",
-            "event": "Cold War consolidation",
-            "blurb": "Blocs harden; security and ideology define a new order."
-          },
-          {
-            "id": "echo.dotcom.bubble.collapse.2000",
-            "year": "2000",
-            "event": "Dot-com bubble peaks and collapses",
-            "blurb": "Speculative excess gives way to platform consolidation and regulation."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-07-29"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.capricorn",
-        "title": "Next Full Moon in 13 days — Capricorn Full Moon",
-        "subtitle": "Exact on Jul 29, 2026",
-        "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
-        "echoes": [
-          {
-            "id": "echo.cold_war.birth.1947",
-            "year": "1947",
-            "event": "Cold War consolidation",
-            "blurb": "Blocs harden; security and ideology define a new order."
-          },
-          {
-            "id": "echo.dotcom.bubble.collapse.2000",
-            "year": "2000",
-            "event": "Dot-com bubble peaks and collapses",
-            "blurb": "Speculative excess gives way to platform consolidation and regulation."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-07-29"
-      }
-    },
     {
       "date": "2026-07-17",
       "moon": {
@@ -30806,6 +30722,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.capricorn",
         "title": "Next Full Moon in 2 days — Capricorn Full Moon",
+        "subtitle": "Exact on Jul 18, 2027",
+        "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
+        "echoes": [
+          {
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
+          },
+          {
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-07-18"
+      }
+    },
+    {
+      "date": "2027-07-17",
+      "moon": {
+        "phase": "full",
+        "sign": "Capricorn"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Full (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.leo",
+        "title": "Next Solar Eclipse in 16 days — Leo Solar Eclipse",
+        "subtitle": "Exact on Aug 2, 2027",
+        "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
+        "echoes": [
+          {
+            "id": "echo.hollywood.golden_age.1930s",
+            "year": "1930s–1950s",
+            "event": "Hollywood Golden Age",
+            "blurb": "Studio era; star power, spectacle, and mass culture."
+          },
+          {
+            "id": "echo.culture.woodstock.1969",
+            "year": "1969",
+            "event": "Woodstock Festival",
+            "blurb": "Counterculture apex; music as social force."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-08-02"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.capricorn",
+        "title": "Next Full Moon in 1 days — Capricorn Full Moon",
+        "subtitle": "Exact on Jul 18, 2027",
+        "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
+        "echoes": [
+          {
+            "id": "echo.cold_war.birth.1947",
+            "year": "1947",
+            "event": "Cold War consolidation",
+            "blurb": "Blocs harden; security and ideology define a new order."
+          },
+          {
+            "id": "echo.dotcom.bubble.collapse.2000",
+            "year": "2000",
+            "event": "Dot-com bubble peaks and collapses",
+            "blurb": "Speculative excess gives way to platform consolidation and regulation."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-07-18"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.capricorn",
+        "title": "Next Full Moon in 1 days — Capricorn Full Moon",
         "subtitle": "Exact on Jul 18, 2027",
         "future_theme": "Institutions and achievement cycles peak. Re-assess structures and accountability.",
         "echoes": [
