@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-07-31T07:55:43Z",
+  "generated_utc": "2026-08-01T07:31:29Z",
   "window": {
-    "start": "2026-07-31",
+    "start": "2026-08-01",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "solar_eclipse",
       "date": "2026-08-12",
-      "days_out": 12,
+      "days_out": 11,
       "sign": "Leo",
       "title": "Leo New Moon → Aug 12, 2026",
       "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "lunar_eclipse",
       "date": "2026-08-28",
-      "days_out": 28,
+      "days_out": 27,
       "sign": "Pisces",
       "title": "Pisces Full Moon → Aug 28, 2026",
       "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
@@ -59,7 +59,7 @@
       "phase": "new",
       "kind": "solar_eclipse",
       "date": "2026-08-12",
-      "days_out": 12,
+      "days_out": 11,
       "sign": "Leo",
       "title": "Leo New Moon → Aug 12, 2026",
       "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-07-31",
-      "moon": {
-        "phase": "full",
-        "sign": "Aquarius"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Full (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.leo",
-        "title": "Next Solar Eclipse in 12 days — Leo Solar Eclipse",
-        "subtitle": "Exact on Aug 12, 2026",
-        "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
-        "echoes": [
-          {
-            "id": "echo.hollywood.golden_age.1930s",
-            "year": "1930s–1950s",
-            "event": "Hollywood Golden Age",
-            "blurb": "Studio era; star power, spectacle, and mass culture."
-          },
-          {
-            "id": "echo.culture.woodstock.1969",
-            "year": "1969",
-            "event": "Woodstock Festival",
-            "blurb": "Counterculture apex; music as social force."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-08-12"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.pisces",
-        "title": "Next Lunar Eclipse in 28 days — Pisces Lunar Eclipse",
-        "subtitle": "Exact on Aug 28, 2026",
-        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
-        "echoes": [
-          {
-            "id": "echo.covid.pandemic.2020",
-            "year": "2020",
-            "event": "COVID-19 global pandemic",
-            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
-          },
-          {
-            "id": "echo.hospital.nursing.modern.19c",
-            "year": "19th century",
-            "event": "Modern nursing & hospitals",
-            "blurb": "Florence Nightingale and professionalized care models."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-08-28"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.leo",
-        "title": "Next Solar Eclipse in 12 days — Leo Solar Eclipse",
-        "subtitle": "Exact on Aug 12, 2026",
-        "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
-        "echoes": [
-          {
-            "id": "echo.hollywood.golden_age.1930s",
-            "year": "1930s–1950s",
-            "event": "Hollywood Golden Age",
-            "blurb": "Studio era; star power, spectacle, and mass culture."
-          },
-          {
-            "id": "echo.culture.woodstock.1969",
-            "year": "1969",
-            "event": "Woodstock Festival",
-            "blurb": "Counterculture apex; music as social force."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-08-12"
-      }
-    },
     {
       "date": "2026-08-01",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.new.leo",
         "title": "Next Solar Eclipse in 6 days — Leo Solar Eclipse",
+        "subtitle": "Exact on Aug 12, 2026",
+        "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
+        "echoes": [
+          {
+            "id": "echo.hollywood.golden_age.1930s",
+            "year": "1930s–1950s",
+            "event": "Hollywood Golden Age",
+            "blurb": "Studio era; star power, spectacle, and mass culture."
+          },
+          {
+            "id": "echo.culture.woodstock.1969",
+            "year": "1969",
+            "event": "Woodstock Festival",
+            "blurb": "Counterculture apex; music as social force."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-08-12"
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "moon": {
+        "phase": "last quarter",
+        "sign": "Taurus"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Last Quarter (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.leo",
+        "title": "Next Solar Eclipse in 5 days — Leo Solar Eclipse",
+        "subtitle": "Exact on Aug 12, 2026",
+        "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
+        "echoes": [
+          {
+            "id": "echo.hollywood.golden_age.1930s",
+            "year": "1930s–1950s",
+            "event": "Hollywood Golden Age",
+            "blurb": "Studio era; star power, spectacle, and mass culture."
+          },
+          {
+            "id": "echo.culture.woodstock.1969",
+            "year": "1969",
+            "event": "Woodstock Festival",
+            "blurb": "Counterculture apex; music as social force."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-08-12"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.pisces",
+        "title": "Next Lunar Eclipse in 21 days — Pisces Lunar Eclipse",
+        "subtitle": "Exact on Aug 28, 2026",
+        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
+        "echoes": [
+          {
+            "id": "echo.covid.pandemic.2020",
+            "year": "2020",
+            "event": "COVID-19 global pandemic",
+            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
+          },
+          {
+            "id": "echo.hospital.nursing.modern.19c",
+            "year": "19th century",
+            "event": "Modern nursing & hospitals",
+            "blurb": "Florence Nightingale and professionalized care models."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-08-28"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.leo",
+        "title": "Next Solar Eclipse in 5 days — Leo Solar Eclipse",
         "subtitle": "Exact on Aug 12, 2026",
         "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
         "echoes": [
