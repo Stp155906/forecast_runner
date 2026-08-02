@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-08-01T07:31:29Z",
+  "generated_utc": "2026-08-02T07:35:34Z",
   "window": {
-    "start": "2026-08-01",
+    "start": "2026-08-02",
     "days": 366
   },
   "eclipses": [
@@ -99,6 +99,30 @@
         }
       ],
       "rule_id": "rule.lunation.full.leo",
+      "estimated": false
+    },
+    {
+      "date": "2027-08-02",
+      "phase": "new",
+      "kind": "solar_eclipse",
+      "sign": "Leo",
+      "title": "Leo New Moon → Aug 2, 2027",
+      "future_theme": "Create boldly. Launch performances, brands, and heart-led work.",
+      "echoes": [
+        {
+          "id": "echo.hollywood.golden_age.1930s",
+          "year": "1930s–1950s",
+          "event": "Hollywood Golden Age",
+          "blurb": "Studio era; star power, spectacle, and mass culture."
+        },
+        {
+          "id": "echo.culture.woodstock.1969",
+          "year": "1969",
+          "event": "Woodstock Festival",
+          "blurb": "Counterculture apex; music as social force."
+        }
+      ],
+      "rule_id": "rule.lunation.new.leo",
       "estimated": false
     }
   ]
