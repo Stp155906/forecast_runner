@@ -1,14 +1,10 @@
 {
-  "generated_utc": "2026-08-05T07:44:23Z",
+  "generated_utc": "2026-08-06T07:44:18Z",
   "window": {
-    "start": "2026-08-05",
+    "start": "2026-08-06",
     "days": 7
   },
   "days": [
-    {
-      "date": "2026-08-05",
-      "aspects": []
-    },
     {
       "date": "2026-08-06",
       "aspects": []
@@ -155,6 +151,57 @@
             "rule_id": "dev.jupiter.trine.saturn.any",
             "title": "Jupiter △ Saturn — Structure Meets Growth",
             "subtitle": "Jupiter in Leo △ Saturn in Aries — orb 5.4° (applying)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 114.861,
+          "orb_deg": 5.139,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 129.02,
+              "sign": "Leo",
+              "speed_deg_per_day": 0.22
+            },
+            "saturn": {
+              "lon_deg": 14.15,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.029
+            }
+          },
+          "importance_score": 0.151,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Leo △ Saturn in Aries — orb 5.1° (applying)",
             "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
             "echoes": [
               {
