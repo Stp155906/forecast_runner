@@ -1,61 +1,10 @@
 {
-  "generated_utc": "2026-08-09T05:50:52Z",
+  "generated_utc": "2026-08-10T06:15:13Z",
   "window": {
-    "start": "2026-08-09",
+    "start": "2026-08-10",
     "days": 366
   },
   "days": [
-    {
-      "date": "2026-08-09",
-      "aspects": [
-        {
-          "body1": "jupiter",
-          "body2": "saturn",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 114.127,
-          "orb_deg": 5.873,
-          "phase": "applying",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 128.36,
-              "sign": "Leo",
-              "speed_deg_per_day": 0.22
-            },
-            "saturn": {
-              "lon_deg": 14.23,
-              "sign": "Aries",
-              "speed_deg_per_day": -0.024
-            }
-          },
-          "importance_score": 0.022,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.jupiter.trine.saturn.any",
-            "title": "Jupiter △ Saturn — Structure Meets Growth",
-            "subtitle": "Jupiter in Leo △ Saturn in Aries — orb 5.9° (applying)",
-            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
-            "echoes": [
-              {
-                "id": "echo.eu.enlightenment.1600-1700s",
-                "year": "1600s–1700s",
-                "event": "The Enlightenment",
-                "blurb": "Reason, rights, new philosophies."
-              },
-              {
-                "id": "echo.industry.industrial_revolution.18-19c",
-                "year": "18th–19th centuries",
-                "event": "Industrial Revolution",
-                "blurb": "Tech transforms economy & society."
-              }
-            ]
-          }
-        }
-      ]
-    },
     {
       "date": "2026-08-10",
       "aspects": [
@@ -410,7 +359,100 @@
     },
     {
       "date": "2026-08-16",
-      "aspects": []
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 115.859,
+          "orb_deg": 4.141,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 129.89,
+              "sign": "Leo",
+              "speed_deg_per_day": 0.218
+            },
+            "saturn": {
+              "lon_deg": 14.03,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.035
+            }
+          },
+          "importance_score": 0.325,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Leo △ Saturn in Aries — orb 4.1° (applying)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        },
+        {
+          "body1": "mars",
+          "body2": "neptune",
+          "aspect_name": "square",
+          "family": "4th-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 90.0,
+          "angle_measured_deg": 89.048,
+          "orb_deg": 0.952,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "mars": {
+              "lon_deg": 92.69,
+              "sign": "Cancer",
+              "speed_deg_per_day": 0.653
+            },
+            "neptune": {
+              "lon_deg": 3.64,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.02
+            }
+          },
+          "importance_score": 0.841,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.mars.square.neptune.any",
+            "title": "Mars □ Neptune — Vapor Trails",
+            "subtitle": "Mars in Cancer □ Neptune in Aries — orb 1.0° (applying)",
+            "future_theme": "Scattered effort, leaks, and mirages. Pause, clarify the target, then act with precision.",
+            "echoes": [
+              {
+                "id": "echo.vn.vietnam_war.1955-1975",
+                "year": "1955–1975",
+                "event": "Vietnam War",
+                "blurb": "Long, divisive conflict."
+              },
+              {
+                "id": "echo.ua.chernobyl.1986",
+                "year": "1986",
+                "event": "Chernobyl Disaster",
+                "blurb": "Nuclear accident; lasting impact."
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "date": "2026-08-17",
@@ -1842,6 +1884,10 @@
     },
     {
       "date": "2027-08-09",
+      "aspects": []
+    },
+    {
+      "date": "2027-08-10",
       "aspects": []
     }
   ]
