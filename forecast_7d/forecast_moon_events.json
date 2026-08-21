@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-08-20T05:36:29Z",
+  "generated_utc": "2026-08-21T05:37:52Z",
   "window": {
-    "start": "2026-08-20",
+    "start": "2026-08-21",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-09-11",
-      "days_out": 22,
+      "days_out": 21,
       "sign": "Virgo",
       "title": "Virgo New Moon → Sep 11, 2026",
       "future_theme": "Start systems that reduce friction: health, tools, workflows.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "lunar_eclipse",
       "date": "2026-08-28",
-      "days_out": 8,
+      "days_out": 7,
       "sign": "Pisces",
       "title": "Pisces Full Moon → Aug 28, 2026",
       "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
@@ -59,7 +59,7 @@
       "phase": "full",
       "kind": "lunar_eclipse",
       "date": "2026-08-28",
-      "days_out": 8,
+      "days_out": 7,
       "sign": "Pisces",
       "title": "Pisces Full Moon → Aug 28, 2026",
       "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-08-20",
-      "moon": {
-        "phase": "first quarter",
-        "sign": "Scorpio"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "First Quarter (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.virgo",
-        "title": "Next New Moon in 22 days — Virgo New Moon",
-        "subtitle": "Exact on Sep 11, 2026",
-        "future_theme": "Start systems that reduce friction: health, tools, workflows.",
-        "echoes": [
-          {
-            "id": "echo.lean.manufacturing.20c",
-            "year": "20th century",
-            "event": "Lean manufacturing & quality revolutions",
-            "blurb": "Process improvement reduces waste and increases reliability."
-          },
-          {
-            "id": "echo.public_health.sanitation.1800s",
-            "year": "1800s",
-            "event": "Modern sanitation movement",
-            "blurb": "Public health infrastructure, clean water, and urban reforms."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-09-11"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.pisces",
-        "title": "Next Lunar Eclipse in 8 days — Pisces Lunar Eclipse",
-        "subtitle": "Exact on Aug 28, 2026",
-        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
-        "echoes": [
-          {
-            "id": "echo.covid.pandemic.2020",
-            "year": "2020",
-            "event": "COVID-19 global pandemic",
-            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
-          },
-          {
-            "id": "echo.hospital.nursing.modern.19c",
-            "year": "19th century",
-            "event": "Modern nursing & hospitals",
-            "blurb": "Florence Nightingale and professionalized care models."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-08-28"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.pisces",
-        "title": "Next Lunar Eclipse in 8 days — Pisces Lunar Eclipse",
-        "subtitle": "Exact on Aug 28, 2026",
-        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
-        "echoes": [
-          {
-            "id": "echo.covid.pandemic.2020",
-            "year": "2020",
-            "event": "COVID-19 global pandemic",
-            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
-          },
-          {
-            "id": "echo.hospital.nursing.modern.19c",
-            "year": "19th century",
-            "event": "Modern nursing & hospitals",
-            "blurb": "Florence Nightingale and professionalized care models."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-08-28"
-      }
-    },
     {
       "date": "2026-08-21",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.pisces",
         "title": "Next Lunar Eclipse in 2 days — Pisces Lunar Eclipse",
+        "subtitle": "Exact on Aug 28, 2026",
+        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
+        "echoes": [
+          {
+            "id": "echo.covid.pandemic.2020",
+            "year": "2020",
+            "event": "COVID-19 global pandemic",
+            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
+          },
+          {
+            "id": "echo.hospital.nursing.modern.19c",
+            "year": "19th century",
+            "event": "Modern nursing & hospitals",
+            "blurb": "Florence Nightingale and professionalized care models."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-08-28"
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "moon": {
+        "phase": "full",
+        "sign": "Aquarius"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Full (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.virgo",
+        "title": "Next New Moon in 15 days — Virgo New Moon",
+        "subtitle": "Exact on Sep 11, 2026",
+        "future_theme": "Start systems that reduce friction: health, tools, workflows.",
+        "echoes": [
+          {
+            "id": "echo.lean.manufacturing.20c",
+            "year": "20th century",
+            "event": "Lean manufacturing & quality revolutions",
+            "blurb": "Process improvement reduces waste and increases reliability."
+          },
+          {
+            "id": "echo.public_health.sanitation.1800s",
+            "year": "1800s",
+            "event": "Modern sanitation movement",
+            "blurb": "Public health infrastructure, clean water, and urban reforms."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-09-11"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.pisces",
+        "title": "Next Lunar Eclipse in 1 days — Pisces Lunar Eclipse",
+        "subtitle": "Exact on Aug 28, 2026",
+        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
+        "echoes": [
+          {
+            "id": "echo.covid.pandemic.2020",
+            "year": "2020",
+            "event": "COVID-19 global pandemic",
+            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
+          },
+          {
+            "id": "echo.hospital.nursing.modern.19c",
+            "year": "19th century",
+            "event": "Modern nursing & hospitals",
+            "blurb": "Florence Nightingale and professionalized care models."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-08-28"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.pisces",
+        "title": "Next Lunar Eclipse in 1 days — Pisces Lunar Eclipse",
         "subtitle": "Exact on Aug 28, 2026",
         "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
         "echoes": [
