@@ -1,8 +1,33 @@
 {
-  "generated_utc": "2026-08-21T05:37:52Z",
+  "generated_utc": "2026-08-24T05:43:10Z",
   "window": {
-    "start": "2026-08-21",
+    "start": "2026-08-24",
     "days": 7
   },
-  "eclipses": []
+  "eclipses": [
+    {
+      "date": "2026-08-28",
+      "phase": "full",
+      "kind": "lunar_eclipse",
+      "sign": "Pisces",
+      "title": "Pisces Full Moon → Aug 28, 2026",
+      "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
+      "echoes": [
+        {
+          "id": "echo.covid.pandemic.2020",
+          "year": "2020",
+          "event": "COVID-19 global pandemic",
+          "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
+        },
+        {
+          "id": "echo.hospital.nursing.modern.19c",
+          "year": "19th century",
+          "event": "Modern nursing & hospitals",
+          "blurb": "Florence Nightingale and professionalized care models."
+        }
+      ],
+      "rule_id": "rule.lunation.full.pisces",
+      "estimated": false
+    }
+  ]
 }
