@@ -1,490 +1,10 @@
 {
-  "generated_utc": "2026-09-02T09:24:51Z",
+  "generated_utc": "2026-09-03T09:34:44Z",
   "window": {
-    "start": "2026-09-02",
+    "start": "2026-09-03",
     "days": 7
   },
   "days": [
-    {
-      "date": "2026-09-02",
-      "aspects": [
-        {
-          "body1": "jupiter",
-          "body2": "mars",
-          "aspect_name": "semi-sextile",
-          "family": "12th-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 30.0,
-          "angle_measured_deg": 29.881,
-          "orb_deg": 0.119,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 133.53,
-              "sign": "Leo",
-              "speed_deg_per_day": 0.209
-            },
-            "mars": {
-              "lon_deg": 103.65,
-              "sign": "Cancer",
-              "speed_deg_per_day": 0.628
-            }
-          },
-          "importance_score": 0.988,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Jupiter ⚺ Mars",
-            "subtitle": "Jupiter in Leo ⚺ Mars in Cancer — orb 0.1° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "jupiter",
-          "body2": "mercury",
-          "aspect_name": "semi-sextile",
-          "family": "12th-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 30.0,
-          "angle_measured_deg": 30.665,
-          "orb_deg": 0.665,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 133.53,
-              "sign": "Leo",
-              "speed_deg_per_day": 0.209
-            },
-            "mercury": {
-              "lon_deg": 164.2,
-              "sign": "Virgo",
-              "speed_deg_per_day": 1.859
-            }
-          },
-          "importance_score": 0.684,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Jupiter ⚺ Mercury",
-            "subtitle": "Jupiter in Leo ⚺ Mercury in Virgo — orb 0.7° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "jupiter",
-          "body2": "moon",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 93.917,
-          "orb_deg": 3.917,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 133.53,
-              "sign": "Leo",
-              "speed_deg_per_day": 0.209
-            },
-            "moon": {
-              "lon_deg": 39.62,
-              "sign": "Taurus",
-              "speed_deg_per_day": 10.531
-            }
-          },
-          "importance_score": 0.399,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Jupiter □ Moon",
-            "subtitle": "Jupiter in Leo □ Moon in Taurus — orb 3.9° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "jupiter",
-          "body2": "saturn",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 120.286,
-          "orb_deg": 0.286,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 133.53,
-              "sign": "Leo",
-              "speed_deg_per_day": 0.209
-            },
-            "saturn": {
-              "lon_deg": 13.25,
-              "sign": "Aries",
-              "speed_deg_per_day": -0.059
-            }
-          },
-          "importance_score": 1.0,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.jupiter.trine.saturn.any",
-            "title": "Jupiter △ Saturn — Structure Meets Growth",
-            "subtitle": "Jupiter in Leo △ Saturn in Aries — orb 0.3° (separating)",
-            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
-            "echoes": [
-              {
-                "id": "echo.eu.enlightenment.1600-1700s",
-                "year": "1600s–1700s",
-                "event": "The Enlightenment",
-                "blurb": "Reason, rights, new philosophies."
-              },
-              {
-                "id": "echo.industry.industrial_revolution.18-19c",
-                "year": "18th–19th centuries",
-                "event": "Industrial Revolution",
-                "blurb": "Tech transforms economy & society."
-              }
-            ]
-          }
-        },
-        {
-          "body1": "jupiter",
-          "body2": "venus",
-          "aspect_name": "quintile",
-          "family": "5th-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 72.0,
-          "angle_measured_deg": 70.051,
-          "orb_deg": 1.949,
-          "phase": "applying",
-          "out_of_sign": true,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 133.53,
-              "sign": "Leo",
-              "speed_deg_per_day": 0.209
-            },
-            "venus": {
-              "lon_deg": 203.59,
-              "sign": "Libra",
-              "speed_deg_per_day": 0.794
-            }
-          },
-          "importance_score": 0.026,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Jupiter quintile Venus",
-            "subtitle": "Jupiter in Leo quintile Venus in Libra — orb 1.9° (applying)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "mars",
-          "body2": "mercury",
-          "aspect_name": "sextile",
-          "family": "6th-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 60.0,
-          "angle_measured_deg": 60.547,
-          "orb_deg": 0.547,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "mars": {
-              "lon_deg": 103.65,
-              "sign": "Cancer",
-              "speed_deg_per_day": 0.628
-            },
-            "mercury": {
-              "lon_deg": 164.2,
-              "sign": "Virgo",
-              "speed_deg_per_day": 1.859
-            }
-          },
-          "importance_score": 0.885,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Mars ✶ Mercury",
-            "subtitle": "Mars in Cancer ✶ Mercury in Virgo — orb 0.5° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "mars",
-          "body2": "saturn",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 90.404,
-          "orb_deg": 0.404,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "mars": {
-              "lon_deg": 103.65,
-              "sign": "Cancer",
-              "speed_deg_per_day": 0.628
-            },
-            "saturn": {
-              "lon_deg": 13.25,
-              "sign": "Aries",
-              "speed_deg_per_day": -0.059
-            }
-          },
-          "importance_score": 0.979,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Mars □ Saturn",
-            "subtitle": "Mars in Cancer □ Saturn in Aries — orb 0.4° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "mercury",
-          "body2": "moon",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 124.583,
-          "orb_deg": 4.583,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "mercury": {
-              "lon_deg": 164.2,
-              "sign": "Virgo",
-              "speed_deg_per_day": 1.859
-            },
-            "moon": {
-              "lon_deg": 39.62,
-              "sign": "Taurus",
-              "speed_deg_per_day": 10.531
-            }
-          },
-          "importance_score": 0.266,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Mercury △ Moon — Harmony Flow",
-            "subtitle": "Mercury in Virgo △ Moon in Taurus — orb 4.6° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "mercury",
-          "body2": "saturn",
-          "aspect_name": "quincunx",
-          "family": "12th-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 150.0,
-          "angle_measured_deg": 150.951,
-          "orb_deg": 0.951,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "mercury": {
-              "lon_deg": 164.2,
-              "sign": "Virgo",
-              "speed_deg_per_day": 1.859
-            },
-            "saturn": {
-              "lon_deg": 13.25,
-              "sign": "Aries",
-              "speed_deg_per_day": -0.059
-            }
-          },
-          "importance_score": 0.7,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Mercury quincunx Saturn",
-            "subtitle": "Mercury in Virgo quincunx Saturn in Aries — orb 1.0° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "mercury",
-          "body2": "sun",
-          "aspect_name": "conjunction",
-          "family": "1st-harmonic",
-          "vibe": "neutral",
-          "ideal_angle_deg": 0.0,
-          "angle_measured_deg": 5.014,
-          "orb_deg": 5.014,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "mercury": {
-              "lon_deg": 164.2,
-              "sign": "Virgo",
-              "speed_deg_per_day": 1.859
-            },
-            "sun": {
-              "lon_deg": 159.19,
-              "sign": "Virgo",
-              "speed_deg_per_day": 0.968
-            }
-          },
-          "importance_score": 0.42,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Mercury ☌ Sun",
-            "subtitle": "Mercury in Virgo ☌ Sun in Virgo — orb 5.0° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "moon",
-          "body2": "sun",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 119.569,
-          "orb_deg": 0.431,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "moon": {
-              "lon_deg": 39.62,
-              "sign": "Taurus",
-              "speed_deg_per_day": 10.531
-            },
-            "sun": {
-              "lon_deg": 159.19,
-              "sign": "Virgo",
-              "speed_deg_per_day": 0.968
-            }
-          },
-          "importance_score": 1.0,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Moon △ Sun — Harmony Flow",
-            "subtitle": "Moon in Taurus △ Sun in Virgo — orb 0.4° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "neptune",
-          "body2": "uranus",
-          "aspect_name": "sextile",
-          "family": "6th-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 60.0,
-          "angle_measured_deg": 62.022,
-          "orb_deg": 2.022,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "neptune": {
-              "lon_deg": 3.27,
-              "sign": "Aries",
-              "speed_deg_per_day": -0.025
-            },
-            "uranus": {
-              "lon_deg": 65.29,
-              "sign": "Gemini",
-              "speed_deg_per_day": 0.007
-            }
-          },
-          "importance_score": 0.47,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Neptune ✶ Uranus",
-            "subtitle": "Neptune in Aries ✶ Uranus in Gemini — orb 2.0° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "sun",
-          "body2": "uranus",
-          "aspect_name": "square",
-          "family": "4th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 90.0,
-          "angle_measured_deg": 93.897,
-          "orb_deg": 3.897,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "sun": {
-              "lon_deg": 159.19,
-              "sign": "Virgo",
-              "speed_deg_per_day": 0.968
-            },
-            "uranus": {
-              "lon_deg": 65.29,
-              "sign": "Gemini",
-              "speed_deg_per_day": 0.007
-            }
-          },
-          "importance_score": 0.386,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Sun □ Uranus",
-            "subtitle": "Sun in Virgo □ Uranus in Gemini — orb 3.9° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        },
-        {
-          "body1": "sun",
-          "body2": "venus",
-          "aspect_name": "semi-square",
-          "family": "8th-harmonic",
-          "vibe": "tension",
-          "ideal_angle_deg": 45.0,
-          "angle_measured_deg": 44.4,
-          "orb_deg": 0.6,
-          "phase": "separating",
-          "out_of_sign": true,
-          "positions": {
-            "sun": {
-              "lon_deg": 159.19,
-              "sign": "Virgo",
-              "speed_deg_per_day": 0.968
-            },
-            "venus": {
-              "lon_deg": 203.59,
-              "sign": "Libra",
-              "speed_deg_per_day": 0.794
-            }
-          },
-          "importance_score": 0.787,
-          "card": {
-            "state": "unmatched",
-            "rule_id": "dev.aspect.unmatched",
-            "title": "Sun semi-square Venus",
-            "subtitle": "Sun in Virgo semi-square Venus in Libra — orb 0.6° (separating)",
-            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
-            "echoes": []
-          }
-        }
-      ]
-    },
     {
       "date": "2026-09-03",
       "aspects": [
@@ -2798,6 +2318,486 @@
             "rule_id": "dev.aspect.unmatched",
             "title": "Sun semi-square Venus",
             "subtitle": "Sun in Virgo semi-square Venus in Libra — orb 2.0° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "moon",
+          "aspect_name": "conjunction",
+          "family": "1st-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 0.0,
+          "angle_measured_deg": 3.629,
+          "orb_deg": 3.629,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 134.98,
+              "sign": "Leo",
+              "speed_deg_per_day": 0.203
+            },
+            "moon": {
+              "lon_deg": 138.61,
+              "sign": "Leo",
+              "speed_deg_per_day": 12.334
+            }
+          },
+          "importance_score": 0.628,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Jupiter ☌ Moon",
+            "subtitle": "Jupiter in Leo ☌ Moon in Leo — orb 3.6° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 122.164,
+          "orb_deg": 2.164,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 134.98,
+              "sign": "Leo",
+              "speed_deg_per_day": 0.203
+            },
+            "saturn": {
+              "lon_deg": 12.82,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.066
+            }
+          },
+          "importance_score": 0.671,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Leo △ Saturn in Aries — orb 2.2° (separating)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        },
+        {
+          "body1": "jupiter",
+          "body2": "sun",
+          "aspect_name": "semi-sextile",
+          "family": "12th-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 30.0,
+          "angle_measured_deg": 30.991,
+          "orb_deg": 0.991,
+          "phase": "separating",
+          "out_of_sign": true,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 134.98,
+              "sign": "Leo",
+              "speed_deg_per_day": 0.203
+            },
+            "sun": {
+              "lon_deg": 165.97,
+              "sign": "Virgo",
+              "speed_deg_per_day": 0.971
+            }
+          },
+          "importance_score": 0.58,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Jupiter ⚺ Sun",
+            "subtitle": "Jupiter in Leo ⚺ Sun in Virgo — orb 1.0° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "jupiter",
+          "body2": "venus",
+          "aspect_name": "quintile",
+          "family": "5th-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 72.0,
+          "angle_measured_deg": 73.746,
+          "orb_deg": 1.746,
+          "phase": "separating",
+          "out_of_sign": true,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 134.98,
+              "sign": "Leo",
+              "speed_deg_per_day": 0.203
+            },
+            "venus": {
+              "lon_deg": 208.73,
+              "sign": "Libra",
+              "speed_deg_per_day": 0.688
+            }
+          },
+          "importance_score": 0.13,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Jupiter quintile Venus",
+            "subtitle": "Jupiter in Leo quintile Venus in Libra — orb 1.7° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "mars",
+          "body2": "moon",
+          "aspect_name": "semi-sextile",
+          "family": "12th-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 30.0,
+          "angle_measured_deg": 30.565,
+          "orb_deg": 0.565,
+          "phase": "separating",
+          "out_of_sign": true,
+          "positions": {
+            "mars": {
+              "lon_deg": 108.05,
+              "sign": "Cancer",
+              "speed_deg_per_day": 0.617
+            },
+            "moon": {
+              "lon_deg": 138.61,
+              "sign": "Leo",
+              "speed_deg_per_day": 12.334
+            }
+          },
+          "importance_score": 0.825,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mars ⚺ Moon",
+            "subtitle": "Mars in Cancer ⚺ Moon in Leo — orb 0.6° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "mars",
+          "body2": "saturn",
+          "aspect_name": "square",
+          "family": "4th-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 90.0,
+          "angle_measured_deg": 95.228,
+          "orb_deg": 5.228,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "mars": {
+              "lon_deg": 108.05,
+              "sign": "Cancer",
+              "speed_deg_per_day": 0.617
+            },
+            "saturn": {
+              "lon_deg": 12.82,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.066
+            }
+          },
+          "importance_score": 0.135,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mars □ Saturn",
+            "subtitle": "Mars in Cancer □ Saturn in Aries — orb 5.2° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "mars",
+          "body2": "sun",
+          "aspect_name": "sextile",
+          "family": "6th-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 60.0,
+          "angle_measured_deg": 57.926,
+          "orb_deg": 2.074,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "mars": {
+              "lon_deg": 108.05,
+              "sign": "Cancer",
+              "speed_deg_per_day": 0.617
+            },
+            "sun": {
+              "lon_deg": 165.97,
+              "sign": "Virgo",
+              "speed_deg_per_day": 0.971
+            }
+          },
+          "importance_score": 0.554,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mars ✶ Sun",
+            "subtitle": "Mars in Cancer ✶ Sun in Virgo — orb 2.1° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "mercury",
+          "body2": "neptune",
+          "aspect_name": "opposition",
+          "family": "2nd-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 180.0,
+          "angle_measured_deg": 173.665,
+          "orb_deg": 6.335,
+          "phase": "applying",
+          "out_of_sign": true,
+          "positions": {
+            "mercury": {
+              "lon_deg": 176.75,
+              "sign": "Virgo",
+              "speed_deg_per_day": 1.72
+            },
+            "neptune": {
+              "lon_deg": 3.09,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.027
+            }
+          },
+          "importance_score": 0.203,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mercury ☍ Neptune",
+            "subtitle": "Mercury in Virgo ☍ Neptune in Aries — orb 6.3° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "mercury",
+          "body2": "venus",
+          "aspect_name": "semi-sextile",
+          "family": "12th-harmonic",
+          "vibe": "neutral",
+          "ideal_angle_deg": 30.0,
+          "angle_measured_deg": 31.974,
+          "orb_deg": 1.974,
+          "phase": "applying",
+          "out_of_sign": true,
+          "positions": {
+            "mercury": {
+              "lon_deg": 176.75,
+              "sign": "Virgo",
+              "speed_deg_per_day": 1.72
+            },
+            "venus": {
+              "lon_deg": 208.73,
+              "sign": "Libra",
+              "speed_deg_per_day": 0.688
+            }
+          },
+          "importance_score": 0.013,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Mercury ⚺ Venus",
+            "subtitle": "Mercury in Virgo ⚺ Venus in Libra — orb 2.0° (applying)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "moon",
+          "body2": "neptune",
+          "aspect_name": "sesquiquadrate",
+          "family": "8th-harmonic",
+          "vibe": "tension",
+          "ideal_angle_deg": 135.0,
+          "angle_measured_deg": 135.523,
+          "orb_deg": 0.523,
+          "phase": "separating",
+          "out_of_sign": true,
+          "positions": {
+            "moon": {
+              "lon_deg": 138.61,
+              "sign": "Leo",
+              "speed_deg_per_day": 12.334
+            },
+            "neptune": {
+              "lon_deg": 3.09,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.027
+            }
+          },
+          "importance_score": 0.812,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Moon sesquiquadrate Neptune",
+            "subtitle": "Moon in Leo sesquiquadrate Neptune in Aries — orb 0.5° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "moon",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 125.793,
+          "orb_deg": 5.793,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "moon": {
+              "lon_deg": 138.61,
+              "sign": "Leo",
+              "speed_deg_per_day": 12.334
+            },
+            "saturn": {
+              "lon_deg": 12.82,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.066
+            }
+          },
+          "importance_score": 0.04,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Moon △ Saturn — Harmony Flow",
+            "subtitle": "Moon in Leo △ Saturn in Aries — orb 5.8° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "moon",
+          "body2": "uranus",
+          "aspect_name": "quintile",
+          "family": "5th-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 72.0,
+          "angle_measured_deg": 73.291,
+          "orb_deg": 1.291,
+          "phase": "separating",
+          "out_of_sign": true,
+          "positions": {
+            "moon": {
+              "lon_deg": 138.61,
+              "sign": "Leo",
+              "speed_deg_per_day": 12.334
+            },
+            "uranus": {
+              "lon_deg": 65.32,
+              "sign": "Gemini",
+              "speed_deg_per_day": 0.001
+            }
+          },
+          "importance_score": 0.39,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Moon quintile Uranus",
+            "subtitle": "Moon in Leo quintile Uranus in Gemini — orb 1.3° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "moon",
+          "body2": "venus",
+          "aspect_name": "quintile",
+          "family": "5th-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 72.0,
+          "angle_measured_deg": 70.117,
+          "orb_deg": 1.883,
+          "phase": "separating",
+          "out_of_sign": true,
+          "positions": {
+            "moon": {
+              "lon_deg": 138.61,
+              "sign": "Leo",
+              "speed_deg_per_day": 12.334
+            },
+            "venus": {
+              "lon_deg": 208.73,
+              "sign": "Libra",
+              "speed_deg_per_day": 0.688
+            }
+          },
+          "importance_score": 0.066,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Moon quintile Venus",
+            "subtitle": "Moon in Leo quintile Venus in Libra — orb 1.9° (separating)",
+            "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
+            "echoes": []
+          }
+        },
+        {
+          "body1": "neptune",
+          "body2": "uranus",
+          "aspect_name": "sextile",
+          "family": "6th-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 60.0,
+          "angle_measured_deg": 62.232,
+          "orb_deg": 2.232,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "neptune": {
+              "lon_deg": 3.09,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.027
+            },
+            "uranus": {
+              "lon_deg": 65.32,
+              "sign": "Gemini",
+              "speed_deg_per_day": 0.001
+            }
+          },
+          "importance_score": 0.42,
+          "card": {
+            "state": "unmatched",
+            "rule_id": "dev.aspect.unmatched",
+            "title": "Neptune ✶ Uranus",
+            "subtitle": "Neptune in Aries ✶ Uranus in Gemini — orb 2.2° (separating)",
             "future_theme": "📜 No echoes linked for this aspect. Focus on the current geometry and vibe.",
             "echoes": []
           }
