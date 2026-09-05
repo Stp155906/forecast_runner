@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-09-04T09:26:59Z",
+  "generated_utc": "2026-09-05T08:54:49Z",
   "window": {
-    "start": "2026-09-04",
+    "start": "2026-09-05",
     "days": 366
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-09-11",
-      "days_out": 7,
+      "days_out": 6,
       "sign": "Virgo",
       "title": "Virgo New Moon → Sep 11, 2026",
       "future_theme": "Start systems that reduce friction: health, tools, workflows.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-09-26",
-      "days_out": 22,
+      "days_out": 21,
       "sign": "Pisces",
       "title": "Pisces Full Moon → Sep 26, 2026",
       "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
@@ -59,7 +59,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-09-11",
-      "days_out": 7,
+      "days_out": 6,
       "sign": "Virgo",
       "title": "Virgo New Moon → Sep 11, 2026",
       "future_theme": "Start systems that reduce friction: health, tools, workflows.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-09-04",
-      "moon": {
-        "phase": "last quarter",
-        "sign": "Gemini"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Last Quarter (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.virgo",
-        "title": "Next New Moon in 7 days — Virgo New Moon",
-        "subtitle": "Exact on Sep 11, 2026",
-        "future_theme": "Start systems that reduce friction: health, tools, workflows.",
-        "echoes": [
-          {
-            "id": "echo.lean.manufacturing.20c",
-            "year": "20th century",
-            "event": "Lean manufacturing & quality revolutions",
-            "blurb": "Process improvement reduces waste and increases reliability."
-          },
-          {
-            "id": "echo.public_health.sanitation.1800s",
-            "year": "1800s",
-            "event": "Modern sanitation movement",
-            "blurb": "Public health infrastructure, clean water, and urban reforms."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-09-11"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.pisces",
-        "title": "Next Full Moon in 22 days — Pisces Full Moon",
-        "subtitle": "Exact on Sep 26, 2026",
-        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
-        "echoes": [
-          {
-            "id": "echo.covid.pandemic.2020",
-            "year": "2020",
-            "event": "COVID-19 global pandemic",
-            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
-          },
-          {
-            "id": "echo.hospital.nursing.modern.19c",
-            "year": "19th century",
-            "event": "Modern nursing & hospitals",
-            "blurb": "Florence Nightingale and professionalized care models."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-09-26"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.virgo",
-        "title": "Next New Moon in 7 days — Virgo New Moon",
-        "subtitle": "Exact on Sep 11, 2026",
-        "future_theme": "Start systems that reduce friction: health, tools, workflows.",
-        "echoes": [
-          {
-            "id": "echo.lean.manufacturing.20c",
-            "year": "20th century",
-            "event": "Lean manufacturing & quality revolutions",
-            "blurb": "Process improvement reduces waste and increases reliability."
-          },
-          {
-            "id": "echo.public_health.sanitation.1800s",
-            "year": "1800s",
-            "event": "Modern sanitation movement",
-            "blurb": "Public health infrastructure, clean water, and urban reforms."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-09-11"
-      }
-    },
     {
       "date": "2026-09-05",
       "moon": {
@@ -30806,6 +30722,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.pisces",
         "title": "Next Full Moon in 11 days — Pisces Full Moon",
+        "subtitle": "Exact on Sep 15, 2027",
+        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
+        "echoes": [
+          {
+            "id": "echo.covid.pandemic.2020",
+            "year": "2020",
+            "event": "COVID-19 global pandemic",
+            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
+          },
+          {
+            "id": "echo.hospital.nursing.modern.19c",
+            "year": "19th century",
+            "event": "Modern nursing & hospitals",
+            "blurb": "Florence Nightingale and professionalized care models."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-09-15"
+      }
+    },
+    {
+      "date": "2027-09-05",
+      "moon": {
+        "phase": "waxing crescent",
+        "sign": "Scorpio"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Waxing Crescent (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.libra",
+        "title": "Next New Moon in 25 days — Libra New Moon",
+        "subtitle": "Exact on Sep 30, 2027",
+        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
+        "echoes": [
+          {
+            "id": "echo.un.founding.1945",
+            "year": "1945",
+            "event": "Founding of the United Nations",
+            "blurb": "Global diplomacy body founded."
+          },
+          {
+            "id": "echo.un.udhr.1948",
+            "year": "1948",
+            "event": "Universal Declaration of Human Rights",
+            "blurb": "Foundational human rights charter."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-09-30"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.pisces",
+        "title": "Next Full Moon in 10 days — Pisces Full Moon",
+        "subtitle": "Exact on Sep 15, 2027",
+        "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
+        "echoes": [
+          {
+            "id": "echo.covid.pandemic.2020",
+            "year": "2020",
+            "event": "COVID-19 global pandemic",
+            "blurb": "Saturn–Pluto in Capricorn; systemic stress and institutional reset."
+          },
+          {
+            "id": "echo.hospital.nursing.modern.19c",
+            "year": "19th century",
+            "event": "Modern nursing & hospitals",
+            "blurb": "Florence Nightingale and professionalized care models."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-09-15"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.pisces",
+        "title": "Next Full Moon in 10 days — Pisces Full Moon",
         "subtitle": "Exact on Sep 15, 2027",
         "future_theme": "Emotional tides crest; spiritual/service themes culminate. Rest, release, restore.",
         "echoes": [
