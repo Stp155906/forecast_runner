@@ -1,61 +1,10 @@
 {
-  "generated_utc": "2026-09-06T09:15:45Z",
+  "generated_utc": "2026-09-07T10:05:01Z",
   "window": {
-    "start": "2026-09-06",
+    "start": "2026-09-07",
     "days": 7
   },
   "days": [
-    {
-      "date": "2026-09-06",
-      "aspects": [
-        {
-          "body1": "jupiter",
-          "body2": "saturn",
-          "aspect_name": "trine",
-          "family": "3rd-harmonic",
-          "vibe": "harmony",
-          "ideal_angle_deg": 120.0,
-          "angle_measured_deg": 121.357,
-          "orb_deg": 1.357,
-          "phase": "separating",
-          "out_of_sign": false,
-          "positions": {
-            "jupiter": {
-              "lon_deg": 134.37,
-              "sign": "Leo",
-              "speed_deg_per_day": 0.206
-            },
-            "saturn": {
-              "lon_deg": 13.01,
-              "sign": "Aries",
-              "speed_deg_per_day": -0.063
-            }
-          },
-          "importance_score": 0.813,
-          "card": {
-            "state": "matched",
-            "rule_id": "dev.jupiter.trine.saturn.any",
-            "title": "Jupiter △ Saturn — Structure Meets Growth",
-            "subtitle": "Jupiter in Leo △ Saturn in Aries — orb 1.4° (separating)",
-            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
-            "echoes": [
-              {
-                "id": "echo.eu.enlightenment.1600-1700s",
-                "year": "1600s–1700s",
-                "event": "The Enlightenment",
-                "blurb": "Reason, rights, new philosophies."
-              },
-              {
-                "id": "echo.industry.industrial_revolution.18-19c",
-                "year": "18th–19th centuries",
-                "event": "Industrial Revolution",
-                "blurb": "Tech transforms economy & society."
-              }
-            ]
-          }
-        }
-      ]
-    },
     {
       "date": "2026-09-07",
       "aspects": [
@@ -356,6 +305,103 @@
                 "year": "18th–19th centuries",
                 "event": "Industrial Revolution",
                 "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "aspects": [
+        {
+          "body1": "jupiter",
+          "body2": "saturn",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 123.241,
+          "orb_deg": 3.241,
+          "phase": "separating",
+          "out_of_sign": false,
+          "positions": {
+            "jupiter": {
+              "lon_deg": 135.79,
+              "sign": "Leo",
+              "speed_deg_per_day": 0.199
+            },
+            "saturn": {
+              "lon_deg": 12.55,
+              "sign": "Aries",
+              "speed_deg_per_day": -0.07
+            }
+          },
+          "importance_score": 0.483,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.jupiter.trine.saturn.any",
+            "title": "Jupiter △ Saturn — Structure Meets Growth",
+            "subtitle": "Jupiter in Leo △ Saturn in Aries — orb 3.2° (separating)",
+            "future_theme": "Build the new on solid footing; patience turns expansion into lasting gains.",
+            "echoes": [
+              {
+                "id": "echo.eu.enlightenment.1600-1700s",
+                "year": "1600s–1700s",
+                "event": "The Enlightenment",
+                "blurb": "Reason, rights, new philosophies."
+              },
+              {
+                "id": "echo.industry.industrial_revolution.18-19c",
+                "year": "18th–19th centuries",
+                "event": "Industrial Revolution",
+                "blurb": "Tech transforms economy & society."
+              }
+            ]
+          }
+        },
+        {
+          "body1": "mercury",
+          "body2": "uranus",
+          "aspect_name": "trine",
+          "family": "3rd-harmonic",
+          "vibe": "harmony",
+          "ideal_angle_deg": 120.0,
+          "angle_measured_deg": 118.177,
+          "orb_deg": 1.823,
+          "phase": "applying",
+          "out_of_sign": false,
+          "positions": {
+            "mercury": {
+              "lon_deg": 183.5,
+              "sign": "Libra",
+              "speed_deg_per_day": 1.646
+            },
+            "uranus": {
+              "lon_deg": 65.32,
+              "sign": "Gemini",
+              "speed_deg_per_day": -0.003
+            }
+          },
+          "importance_score": 0.679,
+          "card": {
+            "state": "matched",
+            "rule_id": "dev.mercury.trine.uranus.any",
+            "title": "Mercury △ Uranus — Snap Insight",
+            "subtitle": "Mercury in Libra △ Uranus in Gemini — orb 1.8° (applying)",
+            "future_theme": "Breakthrough thinking and clean hacks. Ship the clever version, not the heavy one.",
+            "echoes": [
+              {
+                "id": "echo.tech.telephone.1876",
+                "year": "1876",
+                "event": "Invention of the Telephone",
+                "blurb": "Transforms communication."
+              },
+              {
+                "id": "echo.aviation.wright.1903",
+                "year": "1903",
+                "event": "Wright Brothers’ First Flight",
+                "blurb": "Birth of aviation."
               }
             ]
           }
