@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-10-06T11:54:16Z",
+  "generated_utc": "2026-10-07T11:38:58Z",
   "window": {
-    "start": "2026-10-06",
+    "start": "2026-10-07",
     "days": 7
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-10-10",
-      "days_out": 4,
+      "days_out": 3,
       "sign": "Libra",
       "title": "Libra New Moon → Oct 10, 2026",
       "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-10-26",
-      "days_out": 20,
+      "days_out": 19,
       "sign": "Taurus",
       "title": "Taurus Full Moon → Oct 26, 2026",
       "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
@@ -59,7 +59,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-10-10",
-      "days_out": 4,
+      "days_out": 3,
       "sign": "Libra",
       "title": "Libra New Moon → Oct 10, 2026",
       "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-10-06",
-      "moon": {
-        "phase": "waning crescent",
-        "sign": "Leo"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Waning Crescent (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.libra",
-        "title": "Next New Moon in 4 days — Libra New Moon",
-        "subtitle": "Exact on Oct 10, 2026",
-        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
-        "echoes": [
-          {
-            "id": "echo.un.founding.1945",
-            "year": "1945",
-            "event": "Founding of the United Nations",
-            "blurb": "Global diplomacy body founded."
-          },
-          {
-            "id": "echo.un.udhr.1948",
-            "year": "1948",
-            "event": "Universal Declaration of Human Rights",
-            "blurb": "Foundational human rights charter."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-10-10"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.taurus",
-        "title": "Next Full Moon in 20 days — Taurus Full Moon",
-        "subtitle": "Exact on Oct 26, 2026",
-        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
-        "echoes": [
-          {
-            "id": "echo.finance.great_depression.1929",
-            "year": "1929",
-            "event": "The Great Depression",
-            "blurb": "Worldwide economic collapse."
-          },
-          {
-            "id": "echo.us.gold_rush.1848-1855",
-            "year": "1848–1855",
-            "event": "California Gold Rush",
-            "blurb": "Mass migration; boomtowns."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-10-26"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.libra",
-        "title": "Next New Moon in 4 days — Libra New Moon",
-        "subtitle": "Exact on Oct 10, 2026",
-        "future_theme": "Begin negotiations and partnerships. Draft fair terms.",
-        "echoes": [
-          {
-            "id": "echo.un.founding.1945",
-            "year": "1945",
-            "event": "Founding of the United Nations",
-            "blurb": "Global diplomacy body founded."
-          },
-          {
-            "id": "echo.un.udhr.1948",
-            "year": "1948",
-            "event": "Universal Declaration of Human Rights",
-            "blurb": "Foundational human rights charter."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-10-10"
-      }
-    },
     {
       "date": "2026-10-07",
       "moon": {
@@ -650,6 +566,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.full.taurus",
         "title": "Next Full Moon in 14 days — Taurus Full Moon",
+        "subtitle": "Exact on Oct 26, 2026",
+        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
+        "echoes": [
+          {
+            "id": "echo.finance.great_depression.1929",
+            "year": "1929",
+            "event": "The Great Depression",
+            "blurb": "Worldwide economic collapse."
+          },
+          {
+            "id": "echo.us.gold_rush.1848-1855",
+            "year": "1848–1855",
+            "event": "California Gold Rush",
+            "blurb": "Mass migration; boomtowns."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-10-26"
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "moon": {
+        "phase": "waxing crescent",
+        "sign": "Scorpio"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Waxing Crescent (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.scorpio",
+        "title": "Next New Moon in 27 days — Scorpio New Moon",
+        "subtitle": "Exact on Nov 9, 2026",
+        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "echoes": [
+          {
+            "id": "echo.finance.gfc.2008",
+            "year": "2008",
+            "event": "Global Financial Crisis",
+            "blurb": "Severe worldwide downturn."
+          },
+          {
+            "id": "echo.za.mandela_president.1994",
+            "year": "1994",
+            "event": "Nelson Mandela Elected President",
+            "blurb": "End of apartheid."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-11-09"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.taurus",
+        "title": "Next Full Moon in 13 days — Taurus Full Moon",
+        "subtitle": "Exact on Oct 26, 2026",
+        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
+        "echoes": [
+          {
+            "id": "echo.finance.great_depression.1929",
+            "year": "1929",
+            "event": "The Great Depression",
+            "blurb": "Worldwide economic collapse."
+          },
+          {
+            "id": "echo.us.gold_rush.1848-1855",
+            "year": "1848–1855",
+            "event": "California Gold Rush",
+            "blurb": "Mass migration; boomtowns."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2026-10-26"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.taurus",
+        "title": "Next Full Moon in 13 days — Taurus Full Moon",
         "subtitle": "Exact on Oct 26, 2026",
         "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
         "echoes": [
