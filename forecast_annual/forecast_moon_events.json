@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-10-21T09:58:12Z",
+  "generated_utc": "2026-10-22T09:58:13Z",
   "window": {
-    "start": "2026-10-21",
+    "start": "2026-10-22",
     "days": 366
   },
   "meta": {
@@ -9,7 +9,7 @@
       "phase": "new",
       "kind": "new",
       "date": "2026-11-09",
-      "days_out": 19,
+      "days_out": 18,
       "sign": "Scorpio",
       "title": "Scorpio New Moon → Nov 9, 2026",
       "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
@@ -34,7 +34,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-10-26",
-      "days_out": 5,
+      "days_out": 4,
       "sign": "Taurus",
       "title": "Taurus Full Moon → Oct 26, 2026",
       "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
@@ -59,7 +59,7 @@
       "phase": "full",
       "kind": "full",
       "date": "2026-10-26",
-      "days_out": 5,
+      "days_out": 4,
       "sign": "Taurus",
       "title": "Taurus Full Moon → Oct 26, 2026",
       "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
@@ -82,90 +82,6 @@
     }
   },
   "days": [
-    {
-      "date": "2026-10-21",
-      "moon": {
-        "phase": "waxing gibbous",
-        "sign": "Aquarius"
-      },
-      "moon_anchor_card": {
-        "state": "moon_anchor",
-        "rule_id": "meta.moon.anchor",
-        "title": "Waxing Gibbous (Anchor)",
-        "subtitle": null,
-        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
-        "echoes": []
-      },
-      "countdown_new_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.new.scorpio",
-        "title": "Next New Moon in 19 days — Scorpio New Moon",
-        "subtitle": "Exact on Nov 9, 2026",
-        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
-        "echoes": [
-          {
-            "id": "echo.finance.gfc.2008",
-            "year": "2008",
-            "event": "Global Financial Crisis",
-            "blurb": "Severe worldwide downturn."
-          },
-          {
-            "id": "echo.za.mandela_president.1994",
-            "year": "1994",
-            "event": "Nelson Mandela Elected President",
-            "blurb": "End of apartheid."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-11-09"
-      },
-      "countdown_full_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.taurus",
-        "title": "Next Full Moon in 5 days — Taurus Full Moon",
-        "subtitle": "Exact on Oct 26, 2026",
-        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
-        "echoes": [
-          {
-            "id": "echo.finance.great_depression.1929",
-            "year": "1929",
-            "event": "The Great Depression",
-            "blurb": "Worldwide economic collapse."
-          },
-          {
-            "id": "echo.us.gold_rush.1848-1855",
-            "year": "1848–1855",
-            "event": "California Gold Rush",
-            "blurb": "Mass migration; boomtowns."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-10-26"
-      },
-      "countdown_card": {
-        "state": "countdown",
-        "rule_id": "rule.lunation.full.taurus",
-        "title": "Next Full Moon in 5 days — Taurus Full Moon",
-        "subtitle": "Exact on Oct 26, 2026",
-        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
-        "echoes": [
-          {
-            "id": "echo.finance.great_depression.1929",
-            "year": "1929",
-            "event": "The Great Depression",
-            "blurb": "Worldwide economic collapse."
-          },
-          {
-            "id": "echo.us.gold_rush.1848-1855",
-            "year": "1848–1855",
-            "event": "California Gold Rush",
-            "blurb": "Mass migration; boomtowns."
-          }
-        ],
-        "estimated": false,
-        "event_date": "2026-10-26"
-      }
-    },
     {
       "date": "2026-10-22",
       "moon": {
@@ -30806,6 +30722,90 @@
         "state": "countdown",
         "rule_id": "rule.lunation.new.scorpio",
         "title": "Next New Moon in 8 days — Scorpio New Moon",
+        "subtitle": "Exact on Oct 29, 2027",
+        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "echoes": [
+          {
+            "id": "echo.finance.gfc.2008",
+            "year": "2008",
+            "event": "Global Financial Crisis",
+            "blurb": "Severe worldwide downturn."
+          },
+          {
+            "id": "echo.za.mandela_president.1994",
+            "year": "1994",
+            "event": "Nelson Mandela Elected President",
+            "blurb": "End of apartheid."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-10-29"
+      }
+    },
+    {
+      "date": "2027-10-22",
+      "moon": {
+        "phase": "last quarter",
+        "sign": "Cancer"
+      },
+      "moon_anchor_card": {
+        "state": "moon_anchor",
+        "rule_id": "meta.moon.anchor",
+        "title": "Last Quarter (Anchor)",
+        "subtitle": null,
+        "future_theme": "Collective mood anchor. 📜 No echoes linked today. Focus on the present lunation tone.",
+        "echoes": []
+      },
+      "countdown_new_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.scorpio",
+        "title": "Next New Moon in 7 days — Scorpio New Moon",
+        "subtitle": "Exact on Oct 29, 2027",
+        "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
+        "echoes": [
+          {
+            "id": "echo.finance.gfc.2008",
+            "year": "2008",
+            "event": "Global Financial Crisis",
+            "blurb": "Severe worldwide downturn."
+          },
+          {
+            "id": "echo.za.mandela_president.1994",
+            "year": "1994",
+            "event": "Nelson Mandela Elected President",
+            "blurb": "End of apartheid."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-10-29"
+      },
+      "countdown_full_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.full.taurus",
+        "title": "Next Full Moon in 23 days — Taurus Full Moon",
+        "subtitle": "Exact on Nov 14, 2027",
+        "future_theme": "Money, food, and earth resources dominate. Time to re-price what’s sustainable.",
+        "echoes": [
+          {
+            "id": "echo.finance.great_depression.1929",
+            "year": "1929",
+            "event": "The Great Depression",
+            "blurb": "Worldwide economic collapse."
+          },
+          {
+            "id": "echo.us.gold_rush.1848-1855",
+            "year": "1848–1855",
+            "event": "California Gold Rush",
+            "blurb": "Mass migration; boomtowns."
+          }
+        ],
+        "estimated": false,
+        "event_date": "2027-11-14"
+      },
+      "countdown_card": {
+        "state": "countdown",
+        "rule_id": "rule.lunation.new.scorpio",
+        "title": "Next New Moon in 7 days — Scorpio New Moon",
         "subtitle": "Exact on Oct 29, 2027",
         "future_theme": "Commit to deep change. Detox, debt strategy, and truth-telling starts.",
         "echoes": [
